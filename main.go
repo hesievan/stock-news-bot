@@ -124,10 +124,18 @@ func crawlAll(cfg *AppConfig) []*models.Telegraph {
 			return sliceFromPtr(r)
 		}},
 		{"TradingView", func() []*models.Telegraph {
-			r := data.NewMarketNewsApi().TradingViewNews()
-			return sliceFromPtr(r)
-		}},
-	}
+				r := data.NewMarketNewsApi().TradingViewNews()
+				return sliceFromPtr(r)
+			}},
+			{"雪球热门股", func() []*models.Telegraph {
+				r := data.NewMarketNewsApi().XUEQIUHotStock(20, "wenchuang")
+				return hotItemsToTelegraph(r, "雪球热门股")
+			}},
+			{"雪球热点事件", func() []*models.Telegraph {
+				r := data.NewMarketNewsApi().HotEvent(20)
+				return hotEventsToTelegraph(r, "雪球热点事件")
+			}},
+		}
 
 	// 并行执行
 	ch := make(chan sourceResult, len(tasks))
@@ -167,6 +175,56 @@ func sliceFromPtr(p *[]models.Telegraph) []*models.Telegraph {
 	out := make([]*models.Telegraph, 0, len(*p))
 	for i := range *p {
 		out = append(out, &(*p)[i])
+	}
+	return out
+}
+
+// hotItemsToTelegraph 把雪球热门股转成 Telegraph 格式，便于统一归档。
+func hotItemsToTelegraph(items *[]models.HotItem, source string) []*models.Telegraph {
+	if items == nil {
+		return nil
+	}
+	now := time.Now()
+	out := make([]*models.Telegraph, 0, len(*items))
+	for i := range *items {
+		it := &(*items)[i]
+		t := &models.Telegraph{
+			Title:   fmt.Sprintf("%s（%s）", it.Name, it.Code),
+			Content: fmt.Sprintf("热度: %.0f | 涨跌幅: %.2f%% | 股价: %.2f | 热度变化: %d | 排名变化: %d", it.Value, it.Percent, it.Current, it.Increment, it.RankChange),
+			Time:    now.Format("15:04:05"),
+			DataTime: &now,
+			Source:  source,
+			Url:     fmt.Sprintf("https://xueqiu.com/S/%s%s", it.Exchange, it.Code),
+			IsRed:   false,
+		}
+		if it.Percent > 3 {
+			t.IsRed = true
+		}
+		t.SentimentResult = data.AnalyzeSentiment(t.Content).Description
+		out = append(out, t)
+	}
+	return out
+}
+
+// hotEventsToTelegraph 把雪球热点事件转成 Telegraph 格式。
+func hotEventsToTelegraph(items *[]models.HotEvent, source string) []*models.Telegraph {
+	if items == nil {
+		return nil
+	}
+	now := time.Now()
+	out := make([]*models.Telegraph, 0, len(*items))
+	for i := range *items {
+		it := &(*items)[i]
+		t := &models.Telegraph{
+			Title:   "",
+			Content: it.Content,
+			Time:    now.Format("15:04:05"),
+			DataTime: &now,
+			Source:  source,
+			IsRed:   it.Hot > 10000,
+		}
+		t.SentimentResult = data.AnalyzeSentiment(t.Content).Description
+		out = append(out, t)
 	}
 	return out
 }
