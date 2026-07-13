@@ -29,6 +29,10 @@ func main() {
 	MigrateNewsTables()
 	InjectSettings(cfg)
 
+	// 初始化情感分析引擎（gse 中文分词 + 金融词典）
+	// 必须在抓取前调用，否则 AnalyzeSentiment 内部调用 seg.Cut() 会 panic
+	data.InitAnalyzeSentiment()
+
 	// 2. 抓取所有资讯源。每个源独立抓，失败不阻塞其他源。
 	items := crawlAll(cfg)
 	fmt.Printf("\n汇总：共抓到 %d 条电报\n", len(items))

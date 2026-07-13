@@ -85,12 +85,14 @@ func InjectSettings(cfg *AppConfig) {
 	}
 }
 
-// MigrateNewsTables 建好抓取函数会触碰的表。
+// MigrateNewsTables 建好抓取函数和配置注入会触碰的表。
 // 资讯抓取函数"边抓边写库"，缺表会直接报错；这里按需建表即可。
 func MigrateNewsTables() {
 	db.Dao.AutoMigrate(
 		&models.Telegraph{},
 		&models.TelegraphTags{},
 		&models.Tags{},
+		&data.Settings{},
+		&data.AIConfig{},
 	)
 }
