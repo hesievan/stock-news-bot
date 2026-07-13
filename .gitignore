@@ -1,0 +1,16 @@
+# 临时 SQLite（本地运行时生成，CI 用 /tmp）
+data/news.db
+data/news.db-wal
+data/news.db-shm
+
+# 编译产物
+stock-news-bot
+stock-news-bot.exe
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp

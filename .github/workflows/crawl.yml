@@ -1,0 +1,70 @@
+name: 资讯采集
+
+# ── 触发条件 ──────────────────────────────────────────────
+on:
+  schedule:
+    # 每 30 分钟抓一次（GitHub cron 用 UTC，+8 = 北京时间）
+    # 交易时段 09:30-15:00 → UTC 01:30-07:00，适当加密
+    - cron: '*/30 0-7,22-23 * * 1-5'   # 周一到周五，全天高频（非交易时段也跑，覆盖外围市场）
+  workflow_dispatch: {}                 # 手动触发，方便调试
+
+# 同一 workflow 如果上一次还在跑，跳过本次（避免重叠）
+concurrency:
+  group: crawl
+  cancel-in-progress: true
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ── 1. 拉代码 ───────────────────────────────────────
+      - uses: actions/checkout@v4
+
+      # ── 2. 安装 Chrome（雪球热门/热点需要 chromedp 偷 cookie）──
+      - uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      # ── 3. 安装 Go ─────────────────────────────────────
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+          cache-dependency-path: go.sum
+
+      # ── 4. 抓取 & 归档 & 推送 ──────────────────────────
+      #    所有配置走环境变量/Secrets，见 config.go
+      - name: Run crawler
+        env:
+          DB_PATH: /tmp/news.db              # 临时 SQLite，跑完丢弃
+          DOCS_DIR: docs                      # 归档输出目录（GitHub Pages 读取此目录）
+          # 推送（留空则跳过推送，仅归档）
+          DING_WEBHOOK: ${{ secrets.DING_WEBHOOK }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          # 行为控制
+          ONLY_RED_PUSH: "true"               # 只推重要电报，避免刷屏
+        run: go run .
+
+      # ── 5. 提交归档到仓库 ──────────────────────────────
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📰 资讯归档 $(date +%Y-%m-%d\ %H:%M)"
+            git push
+          fi
+
+      # ── 6. 部署 GitHub Pages ──────────────────────────
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          # 直接从 docs/ 目录发布，无需额外构建
+          enable_jekyll: false
