@@ -22,7 +22,7 @@ const indexHTML = `<!DOCTYPE html>
   body {
     margin:0; background:var(--bg); color:var(--text);
     font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",Helvetica,Arial,sans-serif;
-    font-size:15px; line-height:1.7; -webkit-font-smoothing:antialiased;
+    font-size:16px; line-height:1.7; -webkit-font-smoothing:antialiased;
   }
   a { color:var(--accent); text-decoration:none; }
   a:active { opacity:0.7; }
@@ -33,18 +33,18 @@ const indexHTML = `<!DOCTYPE html>
     background:rgba(13,17,23,0.92); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
     border-bottom:1px solid var(--border);
     display:flex; align-items:center; gap:8px;
-    padding:10px 14px; height:56px;
+    padding:10px 12px; min-height:52px;
   }
-  .navbar .brand { font-size:16px; font-weight:600; color:var(--accent); white-space:nowrap; flex-shrink:0; }
+  .navbar .brand { font-size:15px; font-weight:600; color:var(--accent); white-space:nowrap; flex-shrink:0; }
   .navbar select {
-    flex:1; min-width:0; max-width:240px;
+    flex:1; min-width:0;
     background:var(--bg-inset); color:var(--text); border:1px solid var(--border);
-    border-radius:8px; padding:8px 12px; font-size:14px; cursor:pointer;
+    border-radius:8px; padding:10px 12px; font-size:15px; cursor:pointer;
   }
   .icon-btn {
     background:var(--bg-card); border:1px solid var(--border); border-radius:8px;
-    color:var(--text); padding:8px 12px; font-size:15px; cursor:pointer; flex-shrink:0;
-    line-height:1; transition:background 0.15s;
+    color:var(--text); padding:10px 14px; font-size:16px; cursor:pointer; flex-shrink:0;
+    line-height:1; transition:background 0.15s; min-height:40px; min-width:40px;
   }
   .icon-btn:active { background:var(--bg-hover); }
 
@@ -59,8 +59,8 @@ const indexHTML = `<!DOCTYPE html>
   .filters::-webkit-scrollbar { display:none; }
   .chip {
     background:var(--bg-card); border:1px solid var(--border); border-radius:999px;
-    padding:5px 12px; font-size:12px; color:var(--text-muted); white-space:nowrap; cursor:pointer;
-    transition:all 0.15s; flex-shrink:0;
+    padding:7px 14px; font-size:13px; color:var(--text-muted); white-space:nowrap; cursor:pointer;
+    transition:all 0.15s; flex-shrink:0; min-height:36px; user-select:none;
   }
   .chip:active { background:var(--bg-hover); }
   .chip.active { background:var(--accent); color:#fff; border-color:var(--accent); }
@@ -111,28 +111,27 @@ const indexHTML = `<!DOCTYPE html>
   /* ===== 资讯卡片 ===== */
   .item {
     background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius);
-    padding:14px 16px; margin-bottom:10px; transition:border-color 0.15s;
+    padding:14px 14px; margin-bottom:10px; transition:border-color 0.15s;
   }
-  .item.red { border-left:3px solid var(--red); }
-  .item.normal { border-left:3px solid var(--border-muted); }
+  .item.red { border-left:4px solid var(--red); }
+  .item.normal { border-left:4px solid var(--border-muted); }
   .item-head {
     display:flex; flex-wrap:wrap; align-items:center; gap:4px 8px;
-    font-size:12px; color:var(--text-dim); margin-bottom:8px;
+    font-size:12px; color:var(--text-dim); margin-bottom:8px; line-height:1.8;
   }
-  .item-head .time { font-variant-numeric:tabular-nums; }
-  .item-head .sep { color:var(--border); }
+  .item-head .time { font-variant-numeric:tabular-nums; white-space:nowrap; }
   .badge {
-    display:inline-block; padding:1px 7px; border-radius:4px; font-size:11px; line-height:1.6;
+    display:inline-block; padding:2px 8px; border-radius:4px; font-size:11px; line-height:1.6;
     background:var(--bg-inset); color:var(--text-muted);
   }
-  .badge.red { background:rgba(248,81,73,0.12); color:var(--red); }
+  .badge.red { background:rgba(248,81,73,0.12); color:var(--red); font-weight:600; }
   .badge.up { background:rgba(63,185,80,0.12); color:var(--green); }
   .badge.down { background:rgba(248,81,73,0.12); color:var(--red); }
   .badge.neutral { background:rgba(139,148,158,0.12); color:var(--text-muted); }
   .title { font-size:15px; font-weight:600; color:var(--text); margin:0 0 6px; line-height:1.5; }
-  .content { font-size:14px; line-height:1.75; color:var(--text); word-break:break-word; }
-  .item .url { margin-top:8px; }
-  .item .url a { font-size:12px; color:var(--accent); }
+  .content { font-size:15px; line-height:1.7; color:var(--text); word-break:break-word; overflow-wrap:break-word; }
+  .item .url { margin-top:10px; }
+  .item .url a { font-size:13px; color:var(--accent); }
 
   .empty { color:var(--text-muted); text-align:center; padding:60px 20px; font-size:14px; }
   .loading { color:var(--text-muted); text-align:center; padding:40px 20px; font-size:14px; }
@@ -142,13 +141,14 @@ const indexHTML = `<!DOCTYPE html>
     body { font-size:16px; }
     .navbar { padding:10px 24px; }
     .navbar .brand { font-size:17px; }
-    .filters { padding:10px 24px; }
+    .filters { padding:10px 24px; gap:8px; }
     .container { padding:24px 24px 80px; }
-    .item { padding:16px 20px; }
+    .item { padding:16px 20px; margin-bottom:12px; }
     .item:hover { border-color:var(--text-dim); }
     .title { font-size:16px; }
     .content { font-size:15px; }
     .icon-btn.hide-desktop { display:none; }
+    .chip { padding:6px 16px; font-size:13px; min-height:auto; }
   }
   /* 超宽屏限制阅读宽度，避免行太长 */
   @media (min-width:1100px) {
@@ -298,7 +298,7 @@ function renderFilters() {
   });
 }
 
-// ===== 渲染资讯列表（按来源分组） =====
+// ===== 渲染资讯列表（按来源分组，重要资讯置顶） =====
 function renderNews() {
   const items = currentArc.items || [];
   let filtered = items;
@@ -307,12 +307,18 @@ function renderNews() {
     $news.innerHTML = '<div class="empty">该来源当天无资讯</div>';
     return;
   }
-  // 按来源分组（保持组内原顺序，已是时间倒序）
+  // 重要（isRed）资讯置顶，组内保持原有时间倒序
+  const sortRedFirst = arr => {
+    const red = arr.filter(i => i.isRed);
+    const normal = arr.filter(i => !i.isRed);
+    return red.concat(normal);
+  };
+  // 按来源分组（每组内重要置顶）
   const groups = {};
   filtered.forEach(i => { const s = i.source || '其他'; (groups[s]=groups[s]||[]).push(i); });
+  Object.keys(groups).forEach(s => { groups[s] = sortRedFirst(groups[s]); });
   // 组顺序：按条数倒序
   const order = Object.keys(groups).sort((a,b) => groups[b].length - groups[a].length);
-
   let html = '';
   order.forEach(src => {
     html += '<div class="group">';
