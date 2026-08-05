@@ -1,347 +1,617 @@
 {
   "date": "2026-08-05",
-  "fetched_at": "2026-08-05T16:39:30Z",
+  "fetched_at": "2026-08-05T18:19:25Z",
   "items": [
     {
-      "time": "00:38:04",
+      "time": "02:18:24",
+      "source": "新浪财经",
+      "title": "俄中选委主席：全力保障国家杜马选举安全",
+      "content": "【俄中选委主席：全力保障国家杜马选举安全】俄罗斯中央选举委员会主席帕姆菲洛娃5日在克里姆林宫向俄总统普京汇报工作时表示，俄中选委已做好准备，将全力保障今年秋季举行的俄国家杜马（议会下院）选举安全。（新华社）",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "02:18:10",
       "source": "新浪财经",
       "title": "",
-      "content": "伊朗副外长：伊朗与阿曼关于霍尔木兹海峡安排的协议即将完成。已取得重大进展。",
+      "content": "也门胡塞武装发言人：我方部队正严密监控沙特油轮的全部动向，不会允许任何此类船只通行。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "00:35:19",
-      "source": "新浪财经",
-      "title": "德国一机场暂停航班 此前发现武装无人机 并发生货机与不明物相撞事件",
-      "content": "【德国一机场暂停航班 此前发现武装无人机 并发生货机与不明物相撞事件】德国重要的货运和军事装备运输枢纽莱比锡-哈雷机场一度暂停航班，隔夜发现一架武装无人机，同时一架货机在空中与一个身份不明的小型物体相撞。当地警方周三上午发布声明称，包括一架客机在内的多架飞机被迫改道，机场部分区域目前仍处于关闭状态。该机场此前曾是间谍活动和破坏行动的目标。根据周三下午另外发布的公告，州总检察长办公室和州刑事警察部门已接手调查，正在征集目击者。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:33:29",
+      "time": "02:17:47",
       "source": "新浪财经",
       "title": "",
-      "content": "受关税预期影响，纽约商品交易所铜价攀升至历史新高。",
+      "content": "波音：美国空军授予波音一份7500万美元未最终定价合同，采购BSU‑111/B弹药投放组件（远程型联合直接攻击弹药JDAM‑LR）。",
       "url": "",
-      "sentiment": "看涨",
-      "isRed": true
+      "sentiment": "中性",
+      "isRed": false
     },
     {
-      "time": "00:30:59",
+      "time": "02:15:10",
       "source": "新浪财经",
       "title": "",
-      "content": "以色列军方称，已在黎巴嫩南部实施定点打击，并指责真主党违反6月由美国斡旋达成的安全安排。",
+      "content": "也门胡塞武装称，其在亚丁湾使用弹道导弹袭击沙特油轮“黛西号”，迫使该船返航。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "00:27:50",
+      "time": "02:15:04",
       "source": "新浪财经",
       "title": "",
-      "content": "有报道称激进投资机构Starboard持有Shake Shack数亿美元头寸后，Shake Shack股价大涨8.9%。",
+      "content": "也门胡塞武装称其在亚丁湾袭击了一艘沙特石油船只，沙特方面尚未确认这一消息。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "00:25:50",
+      "time": "02:08:59",
       "source": "新浪财经",
       "title": "",
-      "content": "美国国务卿鲁比奥与英国外交大臣米利班德就双方保障霍尔木兹海峡安全通航的承诺展开磋商。",
+      "content": "微软股价跌至盘中最低点1.5%。",
       "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:24:14",
-      "source": "新浪财经",
-      "title": "",
-      "content": "菲利浦66：全球炼油产能恢复正常所需时间将长于2022年。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:24:01",
-      "source": "新浪财经",
-      "title": "",
-      "content": "美国国务院：鲁比奥与英国外交大臣米利班德讨论了欧洲在自身安全方面承担更大责任的重要性。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:21:04",
-      "source": "新浪财经",
-      "title": "",
-      "content": "伊拉克安全代表团将访问沙特阿拉伯。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:19:10",
-      "source": "新浪财经",
-      "title": "",
-      "content": "菲利普斯66首席执行官：全球炼油行业正遭遇供给冲击，而非需求冲击。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:16:33",
-      "source": "新浪财经",
-      "title": "",
-      "content": "以色列总理内塔尼亚胡：特朗普是以色列挚友，但以方将不惜一切保障国家安全。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:12:28",
-      "source": "新浪财经",
-      "title": "",
-      "content": "Alphabet股价跌幅扩大至5%以上。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": true
-    },
-    {
-      "time": "00:12:01",
-      "source": "新浪财经",
-      "title": "",
-      "content": "美国国务院一名高级官员：以色列与黎巴嫩在罗马举行的本轮谈判于罗马时间今日15时30分结束。受当地安全事态影响，谈判较原定时间提前结束，但将于明日上午重启。会谈围绕多项政治与军事议题展开，取得丰硕成果。各方专业团队在拟定以黎美三方框架协议落地相关核心细节方面取得进展。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:11:31",
-      "source": "新浪财经",
-      "title": "",
-      "content": "以色列总理内塔尼亚胡：无论能否达成协议，以色列都将继续采取行动阻止伊朗获取核武器。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:10:33",
-      "source": "新浪财经",
-      "title": "阿拉伯和伊斯兰国家谴责以色列耶路撒冷政策",
-      "content": "【阿拉伯和伊斯兰国家谴责以色列耶路撒冷政策】阿拉伯和伊斯兰国家外长5日在约旦首都安曼举行会议，谴责以色列一直以来试图改变耶路撒冷法律地位、性质和人口组成的政策措施。 与会国家外长和代表会后发表声明说，以方在耶路撒冷问题上一直以来的政策公然违反国际法，没有法律效力。声明呼吁国际社会和联合国安理会立即行动，制止以色列在耶路撒冷采取的一切非法措施。（新华社）",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:09:30",
-      "source": "新浪财经",
-      "title": "土耳其拟为解散库尔德工人党正式立法土耳其拟为解散库尔德工人党正式立法",
-      "content": "【土耳其拟为解散库尔德工人党正式立法土耳其拟为解散库尔德工人党正式立法】土耳其大国民议会议长努曼·库尔图尔穆什5日宣布，一项旨在为彻底解散库尔德工人党及其武装奠定法律基础的法案草案已正式提交议会。 据土耳其《自由报》报道，该草案提出，在土耳其安全机构认定库尔德工人党及与其相关的一切组织已终止实际存在并已上缴所有武器后，可对正在进行的相关调查和起诉，以及已作出的定罪判决的执行予以延期、缓刑。（新华社）",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:08:50",
-      "source": "新浪财经",
-      "title": "",
-      "content": "菲利普斯66计划在2026年第三季度以总产能的90%中段区间运营旗下炼油厂。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "00:08:41",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国海上贸易组织(UKMTO)称所有船员安全，未报告造成环境影响.",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "黄金突破数月下降趋势线，现货黄金突破4200美元/盎司，日内涨幅3.2%，报4206.33美元。市场分析机构The Market Ear指出，若金价收盘站稳4200美元上方，可能触发更大规模逼空行情。美元走弱、中国央行持续购金、投机性多头仓位处于历史低位、商品交易顾问CTA仍持有净空头等多重因素叠加，令黄金当前风险收益比显著改善。技术面与基本面驱动力正形成合力，为金价新一轮上行提供支撑。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "全球AI大模型调用量周榜单显示，DeepSeek V4 Flash以7.22万亿Token调用量位居第一，单日处理达8万亿Token。中国AI大模型周调用量28.13万亿Token，连续十四周超美国，但环比下滑14.76%；美国周调用量环比增长87.18%。小米MiMoV2.5流量回落至5.1万亿Token，腾讯混元Hy3排名第三。OpenAI GPT5.6 Luna爆发式增长，全球头部厂商竞争加剧。分析师指出，海外独立开发者市场竞争激烈，持续迭代和成本控制是关键。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "荣昌生物发布2026年半年度业绩预告，预计上半年营业收入约585,000万元，同比增加约433%，并实现扭亏为盈。业绩增长主要得益于核心产品泰它西普和维迪西妥单抗国内销售持续增长，以及公司与艾伯维就RC148签署独家授权许可协议带来的技术授权收入大幅增加。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "午后半导体材料板块涨势扩大，有研硅20cm涨停，中巨芯、正帆科技、雅克科技、有研新材、和远气体等十余股涨停，兴福电子、欧莱新材、神工股份、西安奕材等多股涨超10%。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "MLCC概念板块持续拉升，风华高科涨停，火炬电子、博迁新材、龙鑫智能、洁美科技也涨停，国瓷材料、三环集团、斯迪克、商络电子涨超10%。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "午后算力硬件股涨势扩大，胜宏科技逼近涨停，工业富联、环旭电子、星网锐捷、汇绿生态等涨停，长盈通、富信科技、生益科技、方正科技、东山精密等多股涨超6%。消息面上，AMD的CEO苏姿丰预计数据中心销售将在2027年翻倍，并计划于2027年推出机架级产品，提振了市场对算力产业链的信心。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "午后铜箔概念异动拉升，宝明科技直线涨停，铜冠铜箔、三孚新科、德福科技、泰金新能、隆扬电子、中一科技等跟涨。消息面上，宝明科技表示研发用于AI服务器的HVLP4/5高端铜箔，主要技术指标已完成厂内验证，正布局送样。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "光纤概念盘中持续走强，通鼎互联涨停，长盈通涨超10%，长飞光纤、亨通光电、永鼎股份、中天科技涨幅靠前。消息面上，据GL-Fibercable和Rebio Group测算，2026/2027年全球光纤需求预计达7.60/8.89亿芯公里，同比分别增长27.6%和17.0%。机构指出，中国光纤预制棒整体国产化率已从2023年的65%提升至2026年的80%+，但高端G.657.A2及空芯光纤用特种光棒仍存在结构性缺口。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "电子特气概念反复活跃，和远气体涨停，正帆科技一度触及20cm涨停，中巨芯、中船特气、蜀道装备、雅克科技、华特气体等跟涨。消息面上，中船特气接受机构调研指出，六氟化钨作为存储芯片制造工艺中的关键耗材，在AI驱动的存储需求持续增长、HBM等先进技术快速发展背景下，下游客户资本性支出持续扩大，市场需求预计保持较快增长。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:39:30",
-      "source": "雪球热点事件",
-      "title": "",
-      "content": "证券板块出现异动拉升，锦龙股份直线涨停，带动国盛证券、华安证券、长江证券、湘财股份等个股跟涨。",
-      "url": "",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:38:04",
-      "source": "外媒",
-      "title": "据彭博社报道，激进投资者Starboard新近建仓Shake Shack",
-      "content": "据彭博社周三援引对冲基金Starboard Value首席执行官 史密斯（Jeff Smith）的话报道，该激进投资者已新购入Shake Shack（ NYSE:SHAK）的股份。该公司股价在午后交易中上涨了11%。史密斯在接受彭博电视台采访时表示，Starboard在Shake Shack的持股规模达数亿美元。Starboard和Shake Shack尚未立即回应路透的置评请求。",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S442215:0",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:37:38",
-      "source": "华尔街见闻-美股",
-      "title": "德国一机场暂停航班，此前发现武装无人机、并发生货机与不明物相撞事件",
-      "content": "德国重要的货运和军事装备运输枢纽莱比锡-哈雷机场一度暂停航班，隔夜发现一架武装无人机，同时一架货机在空中与一个身份不明的小型物体相撞。当地警方周三上午发布声明称，包括一架客机在内的多架飞机被迫改道，机场部分区域目前仍处于关闭状态。该机场此前曾是间谍活动和破坏行动的目标。根据周三下午另外发布的公告，州总检察长办公室和州刑事警察部门已接手调查，正在征集目击者。",
-      "url": "https://wallstreetcn.com/livenews/3145515",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:37:37",
-      "source": "外媒",
-      "title": "两家联邦储备银行将启动针对私人信贷市场的试点调查",
-      "content": "纽约联储周三在一份声明中表示，达拉斯和纽约联邦储备 银行计划在第三季度结束后，针对规模估计为1.3万亿美元的私募信贷市场启动一项试点调查。2008年金融危机导致银行融资枯竭后，私募信贷最初作为为私募股权集团收购交易提供资金的手段而兴起。随后，它迅速发展成为高风险企业债务融资的主要来源，吸引了渴望收益的投资者注入资本。尽管与传统银行业相比规模仍微不足道，但该行业一直饱受  对贷款标准质量及透明度不足的担忧困扰。声明称，该调查将根据借款人规模将市场划分为三个部分：EBITDA（息税折旧及摊销前利润）超过1亿美元的“中高市场”；EBITDA在3000万至1亿美元之间的“中市场”；以及EBITDA低…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44220Z:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:36:19",
-      "source": "外媒",
-      "title": "随着DeepMind负责人调整职务，谷歌对AI领导层进行重大调整",
-      "content": "Kenrick Cai谷歌母公司Alphabet NASDAQ:GOOG 周三宣布对其人工智能部门进行领导层大调整，AI负责人德米斯·哈萨比斯（Demis Hassabis）卸任主要管理职务，而包括资深工程师杰夫·迪恩（Jeff Dean）在内的多位Gemini模型负责人也相继离职。此次人事变动正值谷歌DeepMind的关键时刻：其最新Gemini模型的旗舰版本  尽管原计划于6月发布，但至今仍未面世，这引发了投资者和业界的担忧，认为谷歌正落后于  其竞争对手Anthropic和OpenAI——这两家公司今年夏天都从谷歌挖走了明星级AI人才。消息传出后，Alphabet股价下跌4%。诺贝尔奖…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44220I:0",
       "sentiment": "看跌",
       "isRed": false
     },
     {
-      "time": "16:35:39",
-      "source": "外媒",
-      "title": "菲利普斯66公司获得联邦政府颁发的约20%的《琼斯法案》豁免，副总裁曼德尔表示",
-      "content": "美国独立炼油商菲利普斯66公司（Phillips 66， NYSE:PSX）已获得联邦政府颁发的约20%的《琼斯法案》豁免，用于在伊朗战争期间 (link) 增加精炼产品和原油的国内运输。该公司市场与商业执行副总裁布莱恩·曼德尔（Brian Mandell）在周三与华尔街分析师举行的电话会议上表示。《琼斯法案》豁免权免除了在美港口之间运输燃料时必须使用由美国船员操作、美国拥有的油轮的要求。",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44220A:0",
+      "time": "02:08:46",
+      "source": "新浪财经",
+      "title": "微软AI收入高度依赖OpenAI",
+      "content": "【微软AI收入高度依赖OpenAI】据微软最新披露文件，微软绝大部分人工智能业务收入来源于OpenAI。在上一财年（截至6月底），微软来自OpenAI相关业务的收入达241亿美元，OpenAI贡献超过微软AI实际总收入的一半，估算占比约70%，凸显微软对这家紧密合作伙伴的高度依赖。",
+      "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "16:30:51",
-      "source": "外媒",
-      "title": "金属期市：铜价触及12周高位，美国以外地区库存吃紧",
-      "content": "铜价周三升至12周高位，受助于伦敦金属交易所（LME）系统库存下降，在美国可能对精炼铜加征关税前，更多铜被运往美国。1600 GMT，LME指标三个月期铜 LME:CA1! 上涨0.2%，报每公吨14,095美元，盘中曾触及14,125美元的5月14日以来最高。纽约商品交易所（COMEX）期铜接近纪录高位，较LME期铜 (0#LMECMXCU:)呈现升水，市场消化美国可能作出进口关税决定，这也给LME铜价带来支撑。数月来，这一升水一直在推动美国以外的铜流入COMEX库存，导致传统消费中心的供应趋紧。仅7月，COMEX库存就增加了45,000吨。COMEX交投最活跃的9月期铜合约最新上涨0.8…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S442129:0",
+      "time": "02:07:17",
+      "source": "新浪财经",
+      "title": "",
+      "content": "微软披露：2026财年来自OpenAI相关业务收入241亿美元，OpenAI约占微软AI总销售额的70%。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "02:07:06",
+      "source": "新浪财经",
+      "title": "",
+      "content": "披露文件显示：微软AI业务收入主要来自OpenAI。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "02:03:03",
+      "source": "新浪财经",
+      "title": "特朗普直升机一度与客机距离过近",
+      "content": "【特朗普直升机一度与客机距离过近】美国联邦航空局当地时间8月5日证实，美国东部时间8月4日下午，搭载美国总统特朗普的军用直升机“海军陆战队一号”与从华盛顿里根国家机场起飞的一架客机曾短时间“过于接近”。该机构表示，根据其初步安全审查，“海军陆战队一号”与这架客机之间一度出现“间隔丧失（指两架航空器之间水平或垂直距离‌同时低于规定的最小安全间隔标准）”。（CCTV国际时讯）",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "02:02:18",
+      "source": "新浪财经",
+      "title": "",
+      "content": "俄罗斯能源部消息，俄政府已批准2027年7月1日前允许生产、进口及销售欧2、欧3、欧4标准汽油。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:53:52",
+      "source": "新浪财经",
+      "title": "俄伊即将落地长期天然气协议",
+      "content": "【俄伊即将落地长期天然气协议】伊朗拥有全球第二大天然气储量，但在需求高峰期每日存在2‑3亿立方米的结构性供气缺口。伊朗希望借助进口天然气弥补北部地区的供应短板，并有望扩大本国对伊拉克、土耳其、亚美尼亚、巴基斯坦以及阿曼的天然气出口。此举将进一步加深俄伊双方的相互依存，尽管两国仍在区域天然气市场存在竞争关系。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:51:07",
+      "source": "新浪财经",
+      "title": "俄伊即将落地长期天然气协议 阿塞拜疆获选为首选过境国",
+      "content": "【俄伊即将落地长期天然气协议 阿塞拜疆获选为首选过境国】俄罗斯与伊朗即将落实一项历经多轮谈判的天然气协议，两国官员证实，阿塞拜疆被选定为俄罗斯向伊朗出口天然气的首选过境通道。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:50:25",
+      "source": "新浪财经",
+      "title": "",
+      "content": "特朗普：密歇根州的韦恩县（底特律）就算算不上全世界最腐败的投票地区，也是美国国内最腐败的投票地区之一，完全就是第三世界水准！韦恩县总上演各种匪夷所思的事情，其中就包括选票数量大幅超过登记选民人数。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:49:30",
+      "source": "新浪财经",
+      "title": "",
+      "content": "波兰财政部长：波兰将再度尝试对石油企业征收暴利税。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:42:52",
+      "source": "新浪财经",
+      "title": "",
+      "content": "汇丰上调金风科技A股评级至买入，目标价26.30元人民币。",
+      "url": "",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "16:30:18",
+      "time": "01:35:48",
+      "source": "新浪财经",
+      "title": "",
+      "content": "伊朗：关于美伊第二阶段谈判，目前还没有决定。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:29:34",
+      "source": "新浪财经",
+      "title": "",
+      "content": "伊朗副外长：该航道（新航线）设计使得商船无论是在进入航道还是在离开航道的部分路段，都通过伊朗领海。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:29:14",
+      "source": "新浪财经",
+      "title": "",
+      "content": "伊朗副外长：新航线的很大一部分位于伊朗领海内，而另一部分位于阿曼领海内。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "01:27:06",
+      "source": "新浪财经",
+      "title": "",
+      "content": "伊朗副外长：谅解备忘录包含了指导性原则，但最终结果取决于伊朗与阿曼之间的谈判。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:17:15",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "也门胡塞武装称其在亚丁湾袭击了一艘沙特油轮；沙特方面尚未确认该消息。",
+      "url": "https://wallstreetcn.com/livenews/3145544",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:16:36",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，据报道，也门胡塞武装称其在亚丁湾袭击了一艘沙特油轮；沙特方面尚未确认该消息。",
+      "url": "https://www.cls.cn/telegraph/2.446787e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:10:41",
+      "source": "外媒",
+      "title": "备忘录称，美国银行技术高管刘艾德将跳槽至竞争对手公司",
+      "content": "Svea Herbst-Bayliss美国银行 NYSE:BAC 高级技术高管刘艾德（Ed Liu）已辞职，并计划加入一家竞争对手公司，该行周三在一份内部备忘录中表示。根据他的领英（LinkedIn）个人资料显示，刘曾担任技术副董事长兼全球软件负责人，并于2024年初加入该行。此前，他曾在摩根士丹利任职，担任美洲科技银行业务联席负责人。美国银行一位发言人拒绝置评，刘先生也未能联系上以供置评。目前尚无法立即确定刘将去向何处。就在花旗集团（ NYSE:C）宣布从美国银行（Bank of America）挖角罗汉·森（Rohan Sen）  负责领导科技服务行业业务覆盖的几天后，刘的离职消息便被报…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44226P:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:09:24",
+      "source": "外媒",
+      "title": "在私募信贷市场低迷之年，Ares瞄准一笔20亿美元的贷款交易——彭博社",
+      "content": "-- 来源链接： https://tinyurl.com/472udzum-- 注：路透尚未核实此报道，也不对其准确性负责",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44226L:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:08:55",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，微软的最新披露显示其人工智能销售主要来自OpenAI。OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.446786e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:07:45",
+      "source": "华尔街见闻-美股",
+      "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
+      "content": "根据微软最新的披露文件，其大部分人工智能收入来自OpenAI。该公司在截至6月的财年中从OpenAI录得241亿美元的销售额，OpenAI占微软实际AI销售额的一半以上。该披露表明，在微软最近一个财年中，OpenAI占其实际AI销售额的比例很可能约为70%——这凸显了微软对其紧密合作伙伴的依赖程度。微软跌幅扩大至1.5%，刷新日低。",
+      "url": "https://wallstreetcn.com/livenews/3145543",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "18:06:44",
+      "source": "外媒",
+      "title": "消息人士：FDA、CDC扩大生菜相关环孢子虫病调查至15州",
+      "content": "Siddhi Mahatole/Sneha S K据一位知情人士透露，美国卫生部门在另外六个州发现病例后，已扩大了对与墨西哥中部冰山生菜相关的环孢子虫病疫情的调查范围，使受影响的州总数增至15个。该消息人士称，新确认的疫情州包括密苏里州、阿肯色州、爱荷华州、内布拉斯加州、新罕布什尔州和北卡罗来纳州。美国食品药品监督管理局（FDA）和疾病控制与预防中心（CDC）最初在五个州确认了一起与在百胜餐饮集团（Yum Brands）旗下 NYSE:YUM 塔可贝尔（Taco Bell）餐厅食用生菜相关的疫情。随后，他们将墨西哥中部的泰勒农场（Taylor Farms）确定为生菜的来源地。7月24日，他们…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44226C:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "18:03:04",
+      "source": "华尔街见闻-美股",
+      "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
+      "content": "据美国国会预算办公室（CBO）估算，总统特朗普的核动力战列舰”黄金舰队”，到2056年其研发和采购成本可能高达2750亿美元。\n\n该机构的初步估算显示，首舰造价为230亿美元，后续每艘约180亿美元，这将使它们成为美国有史以来造价最昂贵的军舰。\n\n由于采用核动力，战列舰的建造将十分复杂，最终组装工作将由位于弗吉尼亚州的纽波特纽斯造船公司（Newport News Shipbuilding Inc.）承担，而该公司在三艘航母的建造上已经出现工期延误。",
+      "url": "https://wallstreetcn.com/livenews/3145541",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:58:59",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，意大利银行Banco BPM董事会一致决定，不收购Banca Monte dei Paschi di Siena SpA.（锡耶纳银行）。",
+      "url": "https://www.cls.cn/telegraph/2.446785e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:57:15",
+      "source": "外媒",
+      "title": "波音-洛克希德火箭合资企业进军私募债券市场——彭博社",
+      "content": "-- 来源链接： https://tinyurl.com/yetfhx8k-- 注：路透尚未核实此报道，也不对其准确性负责",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44225R:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:56:08",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "意大利银行Banco BPM董事会一致决定，不收购Banca Monte dei Paschi di Siena SpA.（锡耶纳银行）。",
+      "url": "https://wallstreetcn.com/livenews/3145539",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:55:55",
+      "source": "外媒",
+      "title": "阿根廷与中国续签1,300亿元人民币货币互换协议，期限延长至五年",
+      "content": "阿根廷央行周三发表声明称，阿根廷央行与中国人民银行已续签双边货币互换协议，并将协议期限从原来的3年延长至5年。阿根廷央行补充称，续签后的货币互换协议规模为1,300亿元人民币（约合192.6亿美元）。(完)",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S44214P:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:53:02",
+      "source": "外媒",
+      "title": "全球金市：金价升至近七周新高，因公债收益率走低和伊朗核谈判取得进展",
+      "content": "金价周三升至近七周高位，并有望创下2月以来最大单日涨幅，受美国公债收益率下滑以及市场憧憬霍尔木兹海峡恢复开放取得进展提振。1650 GMT，现货金 TVC:GOLD上涨4.1%，至每盎司4,242.96美元；截至美国东部时间下午12:50，盘中一度触及4,258.99美元，为6月18日以来最高，并突破50日移动均线，目前该均线在4,160美元附近提供支撑。12月交割的期金 TVC:GOLD上涨3.6%，报每盎司4,303.00美元。“随着加息可能性自上周以来下降，较早布局的投资者正重新回归贵金属市场。美元大幅下跌提供了支撑，伊朗局势出现‘暂停’也带来帮助，”独立贵金属交易员Tai Wong表…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S44214S:0",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "17:48:01",
+      "source": "外媒",
+      "title": "华特迪士尼、Alphabet、卡夫亨氏",
+      "content": "周三，受中东和平进程有望取得突破的提振，标普500指数和道琼斯指数均创下历史新高 ，而科技股占比较高的纳斯达克指数则举步维艰，主要受SpaceX和AMD股价下跌拖累——尽管这两家公司此前发布了乐观的业绩预期，却未能打动投资者。美国东部时间13:30，道琼斯工业平均指数 DJ:DJI 上涨0.80%，报54,518.60点。标普500指数 CBOE:SPX 下跌0.02%，报7,735.25点；纳斯达克综合指数 TVC:IXIC 下跌0.51%，报26,448.02点。标普500指数 SP:SPX 涨幅前三的个股：** 查尔斯河实验室国际公司（Charles River Laboratorie…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S442258:0",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "17:44:12",
+      "source": "财联社电报",
+      "title": "META市值已超过SpaceX",
+      "content": "【META市值已超过SpaceX】财联社8月6日电，META市值已超过SpaceX。SpaceX目前下跌10.5%，总市值1.48万亿美元。Meta Platforms现跌0.8%，总市值1.49万亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.446782e+06",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "17:43:35",
+      "source": "华尔街见闻-美股",
+      "title": "Meta Platforms盘中市值超过SpaceX",
+      "content": "马斯克旗下太空探索公司SpaceX目前下跌10.5%，盘中市值1.48万亿美元。\n\nMeta Platforms现跌0.8%，盘中市值1.49万亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3145537",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "17:41:06",
+      "source": "华尔街见闻-A股",
+      "title": "欧洲股市涨势受抑，汇丰和诺和诺德领跌",
+      "content": "欧洲股市在纪录高位附近持稳，汇丰控股和诺和诺德下跌抹去了早些时候的涨幅。\n\n斯托克欧洲600指数收盘基本持平，此前一度上涨0.5%。由于伊朗称与阿曼就霍尔木兹海峡通航路线达成一致，原油价格震荡下跌。\n\n受券商下调评级等因素的影响，汇丰股价下跌4.7%。保诚下跌6.4%。\n\n诺和诺德股价下跌4.3%，因其新款Wegovy减重药销售未达分析师预期。另一方面，荷兰喜力公司因销量增长超过预期，股价上涨2.2%。嘉能则因主要大宗商品价格上涨推动利润大幅增长，股价上涨4.1%。\n\n强劲的财报季已推动欧洲股市创下历史新高。KBC Securities全球股票主管Andrea Gabellone表示：“受整体业绩表现良好和每股收益强劲增长推动，欧洲股市今年以来表现不错。”\n\n他警告说，鉴于该地区对能源收益的依赖程度很高，全年数据仍然不稳定。",
+      "url": "https://wallstreetcn.com/livenews/3145536",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "17:38:24",
+      "source": "外媒",
+      "title": "ETH突破1900美元，日内涨幅 1.45%",
+      "content": "PANews 8月6日消息，欧易OKX行情显示，ETH刚刚突破1900美元，现报1900.80美元/枚，日内涨幅 1.45%。",
+      "url": "https://cn.tradingview.com/news/panews:26583c7c7e3f9:0",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "17:35:41",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，伊朗表示尚未就对美第二阶段谈判做出决定。",
+      "url": "https://www.cls.cn/telegraph/2.446781e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:33:47",
+      "source": "外媒",
+      "title": "英国Bodycote获CVC和Veritas Capital两份竞争性收购要约 估值均约20亿美元",
+      "content": "热处理服务集团博迪科特（Bodycote） LSE:BOY 周三表示，已分别收到私募股权公司CVC Advisers和Veritas Capital提出的现金收购要约，两家机构对这家英国公司的估值均为约15.6亿英镑(合21.0亿美元)。受此消息提振，博迪科特股价一度飙升24%。此前两个月，阿波罗全球管理公司（Apollo Global Management） NYSE:APO 曾提出每股885便士的收购要约，当时对博迪科特的估值约为15.2亿英镑，但随后撤回了该要约 。CVC的收购方案将向股东提供每股最高915便士的对价，其中包括907.8便士现金及7.2便士的中期股息；而Veritas则…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S442245:0",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "17:32:54",
+      "source": "外媒",
+      "title": "PayPal为关键业务部门设定营收目标，首席执行官正重新审视战略——彭博社",
+      "content": "-- 来源链接： https://tinyurl.com/2hbcnuxy-- 注：路透尚未核实此报道，也不对其准确性负责",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S442240:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:31:16",
       "source": "外媒",
       "title": "消息人士称，尽管特朗普对此存有疑虑，美国仍继续推进与乌克兰关于“爱国者”导弹的谈判",
-      "content": "Jonathan Landay/Andrea Shalal四位熟悉谈判情况的消息人士称，尽管美国总统唐纳德·特朗普 (link) 曾对相关协议表示怀疑，但美国 (link) 仍在推进有关允许乌克兰制造“爱国者”拦截导弹的谈判——基辅方面急需这些导弹来抵御俄罗斯的袭击。消息人士补充称，讨论中还包括一项方案，即由乌克兰制造部分组件，然后在欧洲其他地方进行最终组装 (link)。基辅方面一直寻求获得更多PAC-3导弹——这是“爱国者”导弹的最新型号，也是少数几种能够击落俄罗斯 (link) 正日益大量向乌克兰发射的弹道导弹的武器之一。乌克兰总统沃洛迪米尔·泽连斯基周六警告称，该国已用尽“爱国者”拦…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4421ZR:0",
+      "content": "Jonathan Landay/Andrea Shalal四位熟悉谈判情况的消息人士称，尽管美国总统特朗普 (Donald Trump) (link) 曾对相关协议表示怀疑，但美国 (link) 仍在推进有关允许乌克兰制造“爱国者”拦截导弹的谈判——基辅方面急需这些导弹来抵御俄罗斯的袭击。(link) 消息人士补充称，讨论中还包括一项方案，即由乌克兰制造部分组件，然后在欧洲其他地方进行最终组装。基辅方面一直寻求获得更多PAC-3导弹——这是“爱国者”导弹的最新型号，也是少数几种能够击落俄罗斯 (link) 正日益大量向乌克兰发射的弹道导弹的武器之一。乌克兰总统泽连斯基 (Volodymyr…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44223T:0",
       "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:17:13",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，周三（8月5日），美联储隔夜逆回购协议（RRP）使用规模为16.50亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.446779e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:16:34",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "周三（8月5日），美联储隔夜逆回购协议（RRP）使用规模为16.50亿美元（交易对手2家），上个交易日报22.51亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3145534",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:15:21",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "肾脏疾病诊断公司达维塔保健（DVA）维持超过17%的跌幅，美股开盘以来持续低位窄幅震荡。\n\n最新业绩报告显示，该公司美国诊断收入逊色于市场预期，确认全年业绩指引——预估区间的中位数低于华尔街预期（均值）。",
+      "url": "https://wallstreetcn.com/livenews/3145533",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:13:42",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，伊朗副外长称，近期未与美国进行谈判。",
+      "url": "https://www.cls.cn/telegraph/2.446777e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:09:47",
+      "source": "华尔街见闻-美股",
+      "title": "伊朗：美国说准备恢复履行承诺",
+      "content": "伊朗副外长表示，新一轮冲突开始约4-5天后，美国发出信息，要求进行谈判并解决相关问题。\n\n美国传话说准备重返（《伊斯兰堡谅解备忘录》所规定的美方）承诺。\n\n谅解备忘录包含了指导性原则，但最终结果取决于伊朗与阿曼之间的谈判。",
+      "url": "https://wallstreetcn.com/livenews/3145532",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "17:04:03",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，伊朗副外长表示，与阿曼达成的新协议将关闭霍尔木兹海峡临时航运路线。",
+      "url": "https://www.cls.cn/telegraph/2.446775e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:02:39",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，伊朗副外长称，美国恢复履行其在《伊斯兰堡谅解备忘录》中作出的承诺是一个条件，但不足以实现霍尔木兹海峡重新开放。",
+      "url": "https://www.cls.cn/telegraph/2.446774e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:01:54",
+      "source": "华尔街见闻-美股",
+      "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
+      "content": "伊朗副外长：美国履行《伊斯兰堡谅解备忘录》中的承诺是霍尔木兹海峡重新开放的前提条件，但仅满足这一点并不够。\n\n美国违反了谅解备忘录中的所有义务，因为它重新实施了海上封锁并恢复了战争。\n\n美国同样对伊朗实施了新制裁，并停止了关于释放伊朗冻结资金的谈判。\n\n新一轮冲突爆发大约四至五天后，美国传递信息，请求开展谈判、解决相关问题。\n\n（伊朗与阿曼）新（达成）方案的设计将使船舶在驶入以及驶出航线的部分区段时，均需经过伊朗水域。\n\n关于霍尔木兹海峡的任何谅解备忘录都必须仅限于伊朗和阿曼之间，我们绝不会接受任何形式的外部干预。\n\n关于霍尔木兹海峡的任何谅解备忘录都必须仅限于伊朗和阿曼之间，我们绝不会接受任何形式的外部干预。\n\n我们目前与阿曼所做的工作，涉及有关霍尔木兹海峡应遵循的路径。\n\n与阿曼的新谅解备忘录代表了霍尔木兹海峡安排的新模式，与过去60年采用的模式不同。\n\n目前达成的共识是一个新的模式，它考虑了周边安全环境以及应规范霍尔木兹海峡的安排。\n\n地区国家已接受伊朗和阿曼就霍尔木兹海峡达成谅解协议。\n\n新航线的很大一部分位于伊朗领海内，而另一部分位于阿曼领海内。\n\n该航道（新航线）设计使得商船无论是在进入航道还是在离开航道的部分路段，都通过伊朗领海。",
+      "url": "https://wallstreetcn.com/livenews/3145531",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "17:00:47",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "国际铜夜盘收涨0.66%，沪铜收涨0.56%，沪铝收涨0.29%，沪锌收涨1.60%，沪铅收平，沪镍收跌0.17%，沪锡收涨1.70%。\n\n氧化铝夜盘收涨2.56%，铝合金收涨0.13%。\n\n不锈钢夜盘收跌0.72%。",
+      "url": "https://wallstreetcn.com/livenews/3145530",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:58:43",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。\n\nMarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。\n\nMarketVector数字资产100指数涨0.80%，报12794.08点。\n\n目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。\n\n比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
+      "url": "https://wallstreetcn.com/livenews/3145529",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:57:51",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
+      "url": "https://wallstreetcn.com/livenews/3145528",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:56:57",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，伊朗副外长称，伊朗与阿曼商定的霍尔木兹海峡潜在过境路线可能在2至4个月内有效。",
+      "url": "https://www.cls.cn/telegraph/2.446773e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:56:07",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，亚马逊云服务与摩根大通合作推进量子计算研发。",
+      "url": "https://www.cls.cn/telegraph/2.446772e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:55:42",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "倍耐力与The Abet Group签署协议，双方将开发远程控制（遥控）地面救助车辆。",
+      "url": "https://wallstreetcn.com/livenews/3145527",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:54:37",
+      "source": "华尔街见闻-美股",
+      "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
+      "content": "Alphabet旗下谷歌面临一宗集体诉讼，指控其滥用市场主导地位。此前，一家反垄断法庭允许一项代表数十万家英国企业的索赔申请继续推进。\n\n该诉讼指控谷歌向购买在线广告的企业收取过高费用，并滥用其在移动操作系统、应用分发和搜索广告领域的主导地位。英国竞争上诉法庭周三驳回了谷歌试图阻止该索赔以”选择退出”方式继续推进的申请。",
+      "url": "https://wallstreetcn.com/livenews/3145526",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:53:48",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "也门正在为与沙特展开全面对抗做准备。\n\n袭击沙特船只巩固了“封锁换封锁”的局面。\n\n根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。（伊朗塔斯尼姆通讯社）",
+      "url": "https://wallstreetcn.com/livenews/3145525",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:52:07",
+      "source": "财联社电报",
+      "title": "以军证实数名以色列犹太人定居者非法潜入黎巴嫩",
+      "content": "【以军证实数名以色列犹太人定居者非法潜入黎巴嫩】财联社8月6日电，以色列国防军当地时间5日证实，由大约10人组成的一个以色列犹太人定居者团体，当天下午跨越以黎临时分界线进入黎巴嫩一侧。",
+      "url": "https://www.cls.cn/telegraph/2.446771e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:51:48",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "LME期铜收涨44美元，报14110美元/吨。\n\nLME期铝收涨18美元，报3241美元/吨。\n\nLME期锌收涨56美元，报3729美元/吨。\n\nLME期铅收跌10美元，报1886美元/吨。\n\nLME期镍收跌79美元，报17114美元/吨。\n\nLME期锡收涨729美元，报56718美元/吨。\n\nLME期钴收平，报56290美元/吨。",
+      "url": "https://wallstreetcn.com/livenews/3145523",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:49:57",
+      "source": "华尔街见闻-美股",
+      "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
+      "content": "多策略对冲基金Balyasny资产管理和Verition Fund Management均在7月份录得亏损，人工智能（AI）概念股抛售潮冲击市场，也令众多对冲基金受挫。据知情人士透露，Balyasny在7月下跌1.5%，今年前七个月累计回报收窄至1.2%。Verition下跌1.1%，今年以来累计回报降至4.5%。\n\n与此同时，也有部分对冲基金在市场剧烈波动中获利。城堡旗舰基金Wellington在7月上涨5.9%，受益于接盘Situational Awareness持仓。ExodusPoint Capital Management下跌0.9%，今年以来累计上涨3.5%。（彭博）",
+      "url": "https://wallstreetcn.com/livenews/3145522",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "16:48:05",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月6日电，伊朗称，不会接受外国干涉霍尔木兹海峡。",
+      "url": "https://www.cls.cn/telegraph/2.44677e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:47:29",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。\n\n伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
+      "url": "https://wallstreetcn.com/livenews/3145521",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:46:13",
+      "source": "华尔街见闻-A股",
+      "title": "俄罗斯加油站汽油价格今年首次下跌",
+      "content": "在乌克兰对炼油厂的袭击出现间歇、燃料供应得以恢复之后，俄罗斯加油站的汽油价格今年首次出现下跌。\n\n俄罗斯联邦统计局周三晚些时候公布的数据显示，在7月28日至8月3日期间，汽油平均零售价为每升76.57卢布（0.95美元），而一周前为每升77.69卢布。",
+      "url": "https://wallstreetcn.com/livenews/3145520",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "16:45:09",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "据知情人士透露，Point72已经将面临网络袭击一事告知投资者们。\n\n该公司初步评估发现，并没有客户信息被黑客窃取。\n\nPoint72告诉客户们，公司仍然在评估网络袭击问题。（彭博）",
+      "url": "https://wallstreetcn.com/livenews/3145519",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:42:33",
+      "source": "华尔街见闻-全球7x24",
+      "title": "卢拉：美国撤销巴西驻美大使签证是“不负责任”做法",
+      "content": "巴西总统卢拉5日接受媒体采访时表示，美国政府近期撤销巴西驻美大使签证是“不负责任、缺乏考虑的做法”。卢拉呼吁两国保持冷静，同时强调巴西已做好准备，应对任何企图干涉本国选举进程的外部势力。（新华社）",
+      "url": "https://wallstreetcn.com/livenews/3145518",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "16:42:12",
+      "source": "华尔街见闻-全球7x24",
+      "title": "",
+      "content": "Salesforce Venture LLC.的Emily Zhao：（企业并购类）交易已经大幅增长。（彭博电视）",
+      "url": "https://wallstreetcn.com/livenews/3145517",
+      "sentiment": "看涨",
       "isRed": false
     },
     {
       "time": "16:30:09",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "德国两年期国债收益率冲高回落，最终涨超1个基点",
       "content": "周三（8月5日）欧市尾盘，德国10年期国债收益率涨0.4个基点，报3.111%，日内交投于3.088%-3.118%区间，北京时间14:25开始交易后。\n\n两年期德债收益率涨1.3个基点，报2.730%，日内交投于2.704%-2.744%区间，整体冲高回落；30年期德债收益率跌1.1个基点，报3.623%。\n\n2/10年期德债收益率利差跌1.050个基点，报+37.801个基点。\n\n法国10年期国债收益率涨1.7个基点，报3.901%；两年期法债收益率涨1.7个基点，30年期法债收益率涨1.0个基点。\n\n意大利10年期国债收益率涨1.8个基点，报3.882%。\n\n西班牙10年期国债收益率涨1.5个基点，报3.550%。\n\n希腊10年期国债收益率涨1.6个基点，报3.783%。",
       "url": "https://wallstreetcn.com/livenews/3145513",
       "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "16:29:00",
-      "source": "外媒",
-      "title": "Strategy再定宏大目标：希望凭借比特币储备成为全球市值最大公司",
-      "content": "PANews 8月6日消息，Strategy在X平台表示：“我们的雄心是成为全球市值最大的公司，路径包括拥有最多资本化的BTC、发行最强大的信用工具STRC，以及创造最优质的股票MSTR”，这意味着该公司目标是通过持有全球最大规模的比特币资产、发行最强信用工具以及打造最佳股票资产，成为全球市值最大的公司。目前，Strategy已成为全球最大的企业比特币持有者之一，并通过发行可转换债券、优先股等多种融资工具持续扩大BTC储备，该公司近期推出的STRC（Strike Preferred Stock）被定位为其比特币资本战略中的新型融资工具，旨在为投资者提供与比特币资产支持相关的收益型产品，未来将…",
-      "url": "https://cn.tradingview.com/news/panews:7ddb360c4e3f9:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:26:51",
-      "source": "外媒",
-      "title": "北海原油——WTI米德兰原油报价走高",
-      "content": "周三，北海原油价差保持稳定，普氏窗口中美国WTI米德兰原油报价有所上调，同时罕见地出现了一笔格拉内混合原油的报价。普氏窗口除非特别标注为“成本、保险费及运费”（CIF）或“目的地交货”（DAP），否则报价均为“船上交货”（FOB）。",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4421ZE:0",
-      "sentiment": "中性",
       "isRed": false
     },
     {
@@ -354,17 +624,8 @@
       "isRed": false
     },
     {
-      "time": "16:24:00",
-      "source": "外媒",
-      "title": "AI股抛售冲击市场，对冲基金Balyasny和Verition上月双双亏损",
-      "content": "PANews 8月6日消息，据彭博社报道，多策略对冲基金Balyasny资产管理和Verition Fund Management上月均录得亏损，人工智能概念股抛售潮冲击市场，也令众多对冲基金受挫。据知情人士透露，Balyasny在7月下跌1.5%，今年前七个月累计回报收窄至1.2%。另有知情人士表示，Verition下跌1.1%，今年以来累计回报降至4.5%。由于涉及业绩数据，知情人士要求匿名。与此同时，也有部分对冲基金在市场剧烈波动中获利。城堡旗舰基金Wellington在7月上涨5.9%，受益于接盘Situational Awareness持仓。ExodusPoint Capital…",
-      "url": "https://cn.tradingview.com/news/panews:ef77f50cae3f9:0",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
       "time": "16:23:51",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "Franklin Templeton洽谈收购900亿美元规模的Alti Global。（CityWire）",
       "url": "https://wallstreetcn.com/livenews/3145512",
@@ -372,17 +633,17 @@
       "isRed": false
     },
     {
-      "time": "16:22:45",
-      "source": "外媒",
-      "title": "菲利普斯66计划在2026年第三季度将炼油厂产能利用率维持在90%中段水平",
-      "content": "美国独立炼油商菲利普斯66公司 NYSE:PSX 周三在讨论第二季度业绩的电话会议上表示，计划在2026年第三季度将旗下炼油厂的综合产能利用率维持在90%中段水平。首席执行官拉希尔（Mark Lashier）在与华尔街分析师的电话会议中表示，该公司旗下炼油厂在第二季度的运行率已超过其名义产能。",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4421Z6:0",
+      "time": "16:21:56",
+      "source": "华尔街见闻-全球7x24",
+      "title": "Anthropic的Mythos模型在新网络安全事件中伪造身份欺骗人类",
+      "content": "近日，英国AI安全研究所（AISI）表示，Anthropic的Mythos 5模型曾伪造虚假身份，试图说服人类批准对某开源项目的恶意代码修改。该事件是在例行网络安全评估中被发现的，其中17项越权行为来自Anthropic的Mythos模型，另有2项涉及OpenAI的GPT-5.6-Sol（其网络安全分类器已被禁用）。此事件发生在近几周Anthropic和OpenAI旗下模型引发的一系列网络安全漏洞之后。OpenAI的GPT-5.6-Sol在评估期间也卷入了其他网络安全事件。",
+      "url": "https://wallstreetcn.com/livenews/3145535",
       "sentiment": "中性",
       "isRed": false
     },
     {
       "time": "16:21:18",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "美银：对冲基金Situational Awareness爆仓是高杠杆市场的预警信号",
       "content": "美国银行首席执行官布莱恩・莫伊尼汉表示，此前风头正盛、押注AI赛道的对冲基金Situational Awareness濒临崩盘一事，给依靠杠杆运行的金融市场敲响警钟。“这些事件都是预警信号。市场估值出现偏离，整个体系杠杆水平不断攀升，所有人都必须保持警惕。”“机构都会复盘：究竟发生了什么？我们能否从中吸取教训？策略是否需要调整？” 莫伊尼汉说，“市场的普遍倾向是略微收紧授信审核标准，做出相应调整，尤其是在股价大幅上涨的环境下。”\n\n美银是该基金的主经纪商之一，这家基金由利奥波德・阿申布伦纳管理。莫伊尼汉此番表态意味着，华尔街头部主经纪商已经开始重新审视对高杠杆投资机构的风险敞口。",
       "url": "https://wallstreetcn.com/livenews/3145511",
@@ -390,26 +651,8 @@
       "isRed": false
     },
     {
-      "time": "16:21:00",
-      "source": "外媒",
-      "title": "Meta启动AI编程追赶计划：要求内部工程师使用MetaCode加速挑战OpenAI与Anthropic",
-      "content": "PANews 8月6日消息，据The Information报道，Meta 正要求内部数千名工程师使用自研 AI 编程助手 MetaCode，以提升旗下 AI 模型的代码生成能力，加速追赶 OpenAI 和 Anthropic 在 AI 编程领域的竞争。据悉，Meta 应用 AI 工程部门副总裁 Maher Saba 上月在内部备忘录中要求公司工程师每周至少使用 MetaCode 完成一次代码“diff”（代码变更），这些代码修改经过审核后将被整合用于改进 AI 模型。目前，AI 编程已成为大模型竞争的重要方向。Anthropic 旗下 Claude Code、OpenAI 的 Codex…",
-      "url": "https://cn.tradingview.com/news/panews:3087d96d3e3f9:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:18:46",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "Attovia Therapeutics Inc.（ATTO）美国IPO首日开盘报21美元，此前给出的IPO发行价为每股17美元。",
-      "url": "https://wallstreetcn.com/livenews/3145510",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "16:14:54",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "Starboard Value的CEO Jeff Smith：公司已经持股Shake Shack。\n\n价值投资者创造价值正当其时。（彭博电视）",
       "url": "https://wallstreetcn.com/livenews/3145509",
@@ -418,7 +661,7 @@
     },
     {
       "time": "16:13:30",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
       "content": "谷歌DeepMind负责人哈萨比斯（Demis Hassabis）将转任这家Alphabet旗下AI实验室的主席，这是这家互联网巨头一次重大人事调整的一部分。谷歌首席AI架构师、哈萨比斯的长期副手卡武库格鲁（Koray Kavukcuoglu）将接管哈萨比斯的大部分职责。长期任职于谷歌、在其AI战略制定中发挥核心作用的迪恩（Jeff Dean）将离开公司，创办一家初创企业。\n\n谷歌母公司Alphabet（GOOGL，谷歌A）跌超5%，纳指跌超0.6%。",
       "url": "https://wallstreetcn.com/livenews/3145508",
@@ -435,30 +678,12 @@
       "isRed": false
     },
     {
-      "time": "16:12:42",
-      "source": "华尔街见闻-美股",
-      "title": "印度IPO热潮降温，市场疲软迫使发行方缩减规模",
-      "content": "印度首次公开募股（IPO）热潮正在消退，由于企业缩减交易规模、接受更低估值并推迟上市，募资额较一年前下降了五分之一。彭博汇编的数据显示，2026年至今各公司通过公开发行已募集约57.8亿美元，而去年同期为73.2亿美元。此前，2025年和2024年分别创下了223.6亿美元和206.5亿美元的募资纪录。\n\n包括淡马锡（Temasek）支持的Manipal Health Enterprises Ltd.和Indo-MIM Ltd.在内的多家公司已缩减发行规模以促成交易，而Zepto Ltd.等公司则选择了IPO前配售或推迟上市计划。",
-      "url": "https://wallstreetcn.com/livenews/3145507",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "16:12:33",
       "source": "财联社电报",
       "title": "利弗莫尔中概股龙头指数跌幅扩大至1%",
       "content": "【利弗莫尔中概股龙头指数跌幅扩大至1%】财联社8月6日电，利弗莫尔中概股龙头指数跌幅扩大至1%，报9616.38点。成分股中，SL Science Holding Ltd跌6.82%，慧荣科技跌6.34%，联电跌6.3%，麦思智能跌6.1%，脑再生科技跌4.96%。",
       "url": "https://www.cls.cn/telegraph/2.446767e+06",
       "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "16:11:51",
-      "source": "华尔街见闻-美股",
-      "title": "俄无人机厂负责人遭汽车炸弹袭击",
-      "content": "俄罗斯媒体5日报道称，俄罗斯中部斯维尔德洛夫斯克州首府叶卡捷琳堡市郊一村庄4日发生汽车爆炸事件，乌拉尔无人机厂总经理受重伤，其保镖被炸身亡。\n\n报道称，该厂总经理弗拉基米尔·特卡丘克在爆炸中身受重伤，被送往医院重症监护室。特卡丘克的司机兼保镖在爆炸中身亡。现场视频显示，特卡丘克乘坐的奔驰车在爆炸中被烧毁。\n\n俄有关部门已立案侦查。\n\n塔斯社报道称，乌拉尔无人机厂是俄罗斯在俄乌冲突中广泛使用的一款无人机的生产企业。（新华社）",
-      "url": "https://wallstreetcn.com/livenews/3145506",
-      "sentiment": "中性",
       "isRed": false
     },
     {
@@ -471,38 +696,11 @@
       "isRed": false
     },
     {
-      "time": "16:10:33",
-      "source": "华尔街见闻-美股",
-      "title": "五角大楼从公开网站撤下25年的武器测试报告",
-      "content": "五角大楼已悄然从公开网站撤下数十年来发布的武器测试资料，称对手可能利用人工智能分析这些数据。批评者则表示，此举引发了对透明度的担忧。美国国防部在一份声明中表示，五角大楼武器测试办公室主任Amy Henninger于7月30日限制访问过去25年来发布的、关于美国重大武器项目评估状况的非机密年度报告。国防部称，此举是“旨在加强美国行动安全态势的主动措施”。",
-      "url": "https://wallstreetcn.com/livenews/3145505",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "16:10:03",
       "source": "财联社电报",
       "title": "英国海上贸易行动办公室：收到一份报告称也门亚丁东南方向95海里处发生一起事件",
       "content": "【英国海上贸易行动办公室：收到一份报告称也门亚丁东南方向95海里处发生一起事件】财联社8月6日电，英国海上贸易行动办公室表示，收到一份报告称，也门亚丁东南方向95海里处发生一起事件。一艘油轮船长报告称，听到船只附近发生巨大爆炸声。所有船员均已确认安全，无人员伤亡报告。",
       "url": "https://www.cls.cn/telegraph/2.446765e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:08:41",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "英国海上贸易组织(UKMTO)称，一艘油轮船长报告在船体附近听到巨大爆炸声。",
-      "url": "https://wallstreetcn.com/livenews/3145504",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:08:28",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "Prudential Financial跌幅扩大至4.5%，创4月份以来最差盘中表现。",
-      "url": "https://wallstreetcn.com/livenews/3145503",
       "sentiment": "中性",
       "isRed": false
     },
@@ -517,15 +715,6 @@
     },
     {
       "time": "16:02:23",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。\n\n谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
-      "url": "https://wallstreetcn.com/livenews/3145502",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:02:23",
       "source": "财联社电报",
       "title": "谷歌母公司宣布其人工智能部门进行领导层大调整",
       "content": "【谷歌母公司宣布其人工智能部门进行领导层大调整】财联社8月6日电，据报道，谷歌母公司Alphabet周三宣布对其人工智能部门进行领导层大调整，AI负责人德米斯·哈萨比斯卸任主要管理职务，包括资深工程师杰夫·迪恩在内的多位Gemini模型负责人也相继离职。",
@@ -534,201 +723,12 @@
       "isRed": false
     },
     {
-      "time": "16:01:29",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "Demis Hassabis辞去谷歌公司Deepmind首席执行官（CEO）职务，将担任主席。\n\n谷歌母公司Alphabet任命Koray Kavukcouglu为Deepmind的高级副总裁（SVP）。",
-      "url": "https://wallstreetcn.com/livenews/3145501",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:00:55",
-      "source": "华尔街见闻-美股",
-      "title": "英国10年期国债收益率跌约1个基点",
-      "content": "周三（8月5日）欧市尾盘，英国10年期国债收益率跌0.8个基点，报4.889%，北京时间21:39出现一波短线下挫行情。\n\n两年期英债收益率涨涨0.3个基点，报4.239%，21:38刷新日高至4.63%，之后也快速回吐涨幅。\n\n30年期英债收益率跌0.4个基点，50年期英债收益率涨0.2个基点。\n\n2/10年期英债收益率利差跌1.221个基点，报+64.713个基点。",
-      "url": "https://wallstreetcn.com/livenews/3145500",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "16:00:48",
-      "source": "华尔街见闻-美股",
-      "title": "巴基斯坦总理：巴方将继续为地区和平作出真诚努力",
-      "content": "巴基斯坦总理办公室5日发表声明说，巴基斯坦总理夏巴兹当天会见了由伊朗工业矿业和贸易部长阿塔巴克率领的代表团。夏巴兹表示，巴方将继续为地区和平作出真诚努力。",
-      "url": "https://wallstreetcn.com/livenews/3145514",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:55:05",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "明晟公司MSCI北欧国家指数跌0.4%，报397.32点。\n\n在十个板块中，北欧医疗保健板块涨幅最大。\n\n安防公司Verisure Plc.跌6.7%，在一众北欧个股里表现最差。",
-      "url": "https://wallstreetcn.com/livenews/3145498",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:54:43",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，标普500指数抹去涨幅，此前一度上涨0.7%。",
-      "url": "https://www.cls.cn/telegraph/2.446754e+06",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
       "time": "15:54:34",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-A股",
       "title": "",
       "content": "标普500指数转跌，此前一度涨0.7%。纳指跌超0.2%。",
       "url": "https://wallstreetcn.com/livenews/3145497",
       "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:54:30",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，希腊石油公司Helleniq表示，目前石油价格并未导致任何实质性的需求破坏。",
-      "url": "https://www.cls.cn/telegraph/2.446753e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:54:00",
-      "source": "华尔街见闻-全球7x24",
-      "title": "以色列空袭黎巴嫩南部，致1人死亡11人受伤",
-      "content": "据黎巴嫩国家通讯社5日报道，以色列军队当天对黎南部多地发动空袭，造成1人死亡、11人受伤。\n\n据报道，当天早些时候，以军士兵在黎巴嫩南部被炸弹袭击，多名士兵受伤。事发后，以军向黎南部曼苏里村的居民发出“紧急疏散警告”，要求居民立即撤离，随后对黎南部多个地区发动空袭。\n\n报道说，以军当天还在黎巴嫩南部舒巴村郊区林地纵火，引发大面积山火。受风势和高温影响，火势迅速蔓延。（新华社）",
-      "url": "https://wallstreetcn.com/livenews/3145496",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:53:36",
-      "source": "华尔街见闻-美股",
-      "title": "美银：标普500已抵达2026年目标位",
-      "content": "美国银行表示，标普500指数已经触及该行2026年目标7741点；技术指标显示，本轮涨势有望进一步上看8000、8234乃至8541点。该行将7500点视作关键支撑位，但同时警示：8‑10月季节性走弱、动能过热、地缘政治风险，以及即将公布的美国就业与通胀数据，都可能限制指数继续上行的空间。",
-      "url": "https://wallstreetcn.com/livenews/3145495",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:51:45",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，意大利第三大上市银行集团Banco BPM第二季度净利润为5.806亿欧元，市场预期为5.332亿欧元。",
-      "url": "https://www.cls.cn/telegraph/2.446752e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:51:10",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "Banco BPM二季度净营收16.7亿欧元，分析师预期16亿欧元。\n\n二季度净利息收入（NII）为7.857亿欧元，分析师预期7.717亿欧元。",
-      "url": "https://wallstreetcn.com/livenews/3145494",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:50:12",
-      "source": "华尔街见闻-全球7x24",
-      "title": "Two Sigma：已成功挫败了此次试图获取敏感数据的攻击",
-      "content": "管理着750亿美元资产的Two Sigma表示，已成功挫败了此次试图获取敏感数据的攻击。\n\nTwo Sigma发言人在一份声明中表示：“我们的安全团队迅速响应了针对Two Sigma及其他投资管理公司的语音钓鱼攻击，目前没有任何迹象表明我们的数据或系统受到了影响。我们将继续密切关注事态发展。”\n\nPoint72和Citadel的发言人拒绝对黑客是否成功入侵其系统一事发表评论。\n\n据知情人士透露，负责监管经纪交易商和证券从业人员的美国金融业监管局（FINRA）已就近期未遂的网络入侵事件与会员公司取得了联系。（彭博）",
-      "url": "https://wallstreetcn.com/livenews/3145493",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:43:40",
-      "source": "华尔街见闻-全球7x24",
-      "title": "大型对冲基金遭一波网络攻击浪潮袭击",
-      "content": "据知情人士透露，近几日黑客对华尔街公司发动了一波复杂攻击，目标直指大型资产管理公司的信息系统。攻击者试图入侵包括Two Sigma Investments、Citadel和Point72 Asset Management在内的全球最大对冲基金的信息系统。此次攻击浪潮中，多家私募股权公司也成为了目标。此次攻击采用了语音钓鱼（vishing）手段，即网络犯罪分子利用技术模拟电话或语音消息中的声音，诱骗员工泄露敏感信息或授予访问权限。（彭博）",
-      "url": "https://wallstreetcn.com/livenews/3145491",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:36:26",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，欧洲主要股指收盘涨跌不一，英国富时100指数涨0.08%，法国CAC40指数涨0.02%，德国DAX30指数跌0.24%，富时意大利MIB指数跌0.18%。",
-      "url": "https://www.cls.cn/telegraph/2.446742e+06",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:35:57",
-      "source": "华尔街见闻-全球7x24",
-      "title": "卡什卡利：美联储应立即加息以遏制通胀，年底前加息三次“并非不可能”",
-      "content": "美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表示，美国央行现在应开始逐步上调利率，以遏制仍然过高的通胀。卡什卡利警告称，如果决策者等待太久导致高通胀根深蒂固，可能将不得不采取更激进的加息措施。卡什卡利表示，他仍不确定美联储9月的下次会议应采取何种政策行动，希望看到即将公布的数据对经济状况的反映。当被问及美联储是否可能在年底前加息三次时，他表示：“这并非不可能。”",
-      "url": "https://wallstreetcn.com/livenews/3145489",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:33:36",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，美国财政部拍卖四个月期国债，得标利率3.785%，投标倍数3.19。",
-      "url": "https://www.cls.cn/telegraph/2.446741e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:32:12",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "美国财政部拍卖四个月期国债，得标利率3.785%，投标倍数3.19。",
-      "url": "https://wallstreetcn.com/livenews/3145488",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:30:08",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "德国DAX 30指数初步收跌0.07%，报26184.61点。\n\n法国股指初步收涨0.10%，意大利股指初步收跌0.16%、银行指数跌0.45%，英国股指初步收涨0.25%。",
-      "url": "https://wallstreetcn.com/livenews/3145486",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:30:02",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "欧洲STOXX 600指数初步收涨0.16%，报657.90点。\n\n欧元区STOXX 50指数初步收跌0.03%，报6484.44点。\n\n富时泛欧绩优300指数初步收涨0.12%，报2628.52点。",
-      "url": "https://wallstreetcn.com/livenews/3145485",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:29:24",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，纳斯达克中国金龙指数跌幅扩大，现跌0.5%，最新报6571.33点。",
-      "url": "https://www.cls.cn/telegraph/2.44674e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:24:32",
-      "source": "华尔街见闻-全球7x24",
-      "title": "欧洲一核电站因高温降低反应堆功率",
-      "content": "因持续高温天气导致的河水温度上升等原因，克罗地亚和斯洛文尼亚共同运营的克尔什科核电站5日宣布，将从6日起降低反应堆功率。（新华社）",
-      "url": "https://wallstreetcn.com/livenews/3145484",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:24:18",
-      "source": "华尔街见闻-全球7x24",
-      "title": "原美联储主席耶伦：通胀仍是美国面临的核心挑战",
-      "content": "前美国财政部长、美联储主席珍妮特·耶伦表示，美国劳动力市场运行良好，热度已不足以推高通胀。她补充称，中东冲突与油价走高带来的经济影响如此有限，令她感到意外。耶伦表示，最大挑战依旧是在不损害经济的前提下压低通胀。",
-      "url": "https://wallstreetcn.com/livenews/3145483",
-      "sentiment": "中性",
       "isRed": false
     },
     {
@@ -741,51 +741,6 @@
       "isRed": false
     },
     {
-      "time": "15:20:03",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "【上交所行动之后深交所也将切换交易线路，周边机房已“供应紧张”】从业内反馈来看，沪深交易所均在推动将交易行情接入方式变更为广域网线路，但实施节奏有所不同。多位业内人士称，上交所将交易行情接入方式统一由局域网变更为广域网线路已于7月31日完成。尽管线路切换还未完成，但“近深交所”的机房争夺战已经悄然升温。一位在从事机房租赁业务的人士表示，深交所附近的机房目前供应也已“比较紧张”。据此前报道，上交所附近的机房价格已有明显上涨，且处于一柜难求的状态。(一财)",
-      "url": "https://wallstreetcn.com/livenews/3145481",
-      "sentiment": "看涨",
-      "isRed": true
-    },
-    {
-      "time": "15:17:32",
-      "source": "财联社电报",
-      "title": "",
-      "content": "欧盟委员会发言人表示，欧盟将于8月末对进口自巴西的食品实施审计。欧盟对巴西食品（贸易）“合规”的审计将囊括家禽与蜂蜜，不会包括牛肉和禽蛋。",
-      "url": "https://www.cls.cn/telegraph/2.446739e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:14:46",
-      "source": "财联社电报",
-      "title": "上交所行动之后深交所也将切换交易线路 周边机房已“供应紧张”",
-      "content": "【上交所行动之后深交所也将切换交易线路 周边机房已“供应紧张”】财联社8月5日电，从业内反馈来看，沪深交易所均在推动将交易行情接入方式变更为广域网线路，但实施节奏有所不同。多位业内人士称，上交所将交易行情接入方式统一由局域网变更为广域网线路已于7月31日完成，截至目前，深交所方面还未完成将局域网切换成广域网，但预计线路切换也将很快落地。“目前得到的最新消息，是深交所将于8月7日（本周五）进行交易行情接入方式的切换，由局域网线路变更为广域网线路。”一位华东地区的券商人士说。另有华南地区的量化机构人士表示，目前听到的消息也是“本周内会切换”。不过也有券商人士表示：“听到的消息是8月7日深交所要进行交易行情接入方式切换，但不确定会否有变化。”尽管线路切换还未完成，但“近深交所”的机房争夺战已经悄然升温。一位在从事机房租赁业务的人士表示，深交所附近的机房目前供应也已“比较紧张”。据此前报道，上交所附近的机房价格已有明显上涨，且处于一柜难求的状态。 (第一财经)",
-      "url": "https://www.cls.cn/telegraph/2.446738e+06",
-      "sentiment": "看涨",
-      "isRed": true
-    },
-    {
-      "time": "15:14:40",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "欧盟委员会发言人：欧盟对巴西食品（贸易）“合规”的审计将囊括家禽与蜂蜜。\n\n欧盟将于8月末对进口自巴西的食品实施审计。\n\n本次检查不会包括牛肉和禽蛋。（彭博）",
-      "url": "https://wallstreetcn.com/livenews/3145480",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:12:32",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，现货黄金价格涨4.47%，报4259.41美元/盎司。",
-      "url": "https://www.cls.cn/telegraph/2.446737e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "15:09:30",
       "source": "华尔街见闻-A股",
       "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
@@ -793,51 +748,6 @@
       "url": "https://wallstreetcn.com/livenews/3145479",
       "sentiment": "中性",
       "isRed": false
-    },
-    {
-      "time": "15:06:11",
-      "source": "财联社电报",
-      "title": "甲醇夜盘跌超3%",
-      "content": "【甲醇夜盘跌超3%】财联社8月5日电，国内期货主力合约涨跌不一，丙烯、乙二醇（EG）、纯苯、甲醇、苯乙烯（EB）跌超3%，聚丙烯、PTA、液化石油气（LPG）跌近3%，涨幅方面，铁矿石涨近2%，棉花涨超1%，焦煤涨近1%。",
-      "url": "https://www.cls.cn/telegraph/2.446736e+06",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:05:14",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，伊朗外交部发言人表示，伊朗外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
-      "url": "https://www.cls.cn/telegraph/2.446735e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:03:48",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月5日电，国际油价短线走低，截至目前，WTI原油期货价格跌1.48%，报74.645美元/桶；布伦特原油期货价格跌1.17%，报78.428美元/桶。",
-      "url": "https://www.cls.cn/telegraph/2.446734e+06",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "15:02:31",
-      "source": "财联社电报",
-      "title": "伊朗称与阿曼就霍尔木兹海峡航运线路达成一致",
-      "content": "【伊朗称与阿曼就霍尔木兹海峡航运线路达成一致】财联社8月5日电，伊朗外交部发言人巴加埃5日表示，作为霍尔木兹海峡的两个沿岸国，伊朗与阿曼在过去两个月一直就商业船只安全通航路线安排进行谈判，相关技术、法律、安全及环保等问题正在伊朗有关部门审议。巴加埃称，双方谈判“专业且富有进展”，已就拟议的新航线的地理坐标达成一致。如无第三方干扰，两国联合声明目前已进入最后审定和起草阶段。不过，巴加埃强调，伊阿达成协议并不意味着霍尔木兹海峡将恢复安全通航。他表示，海峡关闭源于美国和以色列对伊朗发动军事行动及其引发的地区安全局势，美国对伊朗实施的海上封锁等“威胁性行动”仍然存在，因此海峡安全形势并未根本改善。 (央视新闻)",
-      "url": "https://www.cls.cn/telegraph/2.446733e+06",
-      "sentiment": "中性",
-      "isRed": true
-    },
-    {
-      "time": "15:02:30",
-      "source": "华尔街见闻-全球7x24",
-      "title": "伊朗：与阿曼围绕航运路线达成共识",
-      "content": "伊朗外交部宣布，与阿曼已就霍尔木兹海峡航线的地理特征达成一致，已经进入“最终起草联合声明的阶段”，两国之间的对话处于专业水平，正在推进。若“某些第三方”不干预，阿曼与伊朗的联合声明已进入最终阶段。目前伊朗外交部长与议会议长均无前往巴基斯坦或卡塔尔的出行计划。\n\n布伦特原油5分钟内下跌0.52美元/桶，报78.28美元/桶；现货黄金5分钟内上涨5.16美元/盎司，报4250.07美元/盎司。纽约金日内涨幅达4.0%，报4319.31美元/盎司。",
-      "url": "https://wallstreetcn.com/livenews/3145478",
-      "sentiment": "中性",
-      "isRed": true
     },
     {
       "time": "15:00:39",
@@ -935,60 +845,6 @@
       "title": "",
       "content": "锴威特：拟通过发行股份及支付现金方式向易坤、晶格共智、晶格共创、晶格共赢、晶格顶峰、晶格未来等26名交易对方购买其合计持有的晶艺半导体100%股份，交易价格16.5亿元，并募集配套资金。",
       "url": "https://wallstreetcn.com/livenews/3145381",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "11:31:23",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "ST椰岛：董事兼副总经理、董事会提名委员会委员李铁锋先生因身体原因暂无法正常履行职责。",
-      "url": "https://wallstreetcn.com/livenews/3145371",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "11:30:23",
-      "source": "华尔街见闻-A股",
-      "title": "段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持",
-      "content": "8月5日，港交所披露一则权益变动信息：段永平通过H\u0026H International Investment持有的泡泡玛特多头仓位，于7月30日从7.65%降至5.55%，下降2.1个百分点。 该信息的微妙之处在于时间点——7月23日，段永平刚刚在平台上回应投资者：“泡泡玛特我才刚开始买啊！我猜10年内大概率是不会卖的。”但仅仅过了一周之后，段永平的持仓就减少了超过2个百分点。 泡泡玛特方面表示，本次持股比例下降并非二级市场直接抛售减持，而是期权合约履约，按交易约定交付对应股份。 一位资本市场分析人士进一步解释，段永平此次持股变动与他此前卖Put、卖Call时设置的价格区间密切相关，“主要是价格区间设置比较窄，属于短期交易行为，并非大众理解层面的主动减持”。 这指向的是段永平标志性的“期权收租”策略，持有正股的同时卖出期权赚取权利金，当股价触及行权价，被动交付或接收股票。（每经网）",
-      "url": "https://wallstreetcn.com/livenews/3145370",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "11:16:35",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "招商轮船：通过全资子公司海宏轮船（香港）有限公司与大连造船签署5份《船舶订造协议》，订造5艘配备脱硫洗涤塔和轴带发电机的节能环保型AFRAMAX油轮，协议总价折合人民币约为24.85亿元。预计2029至2030年交付。",
-      "url": "https://wallstreetcn.com/livenews/3145367",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "11:15:18",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "中电环保：控股子公司签订5350万元锂电新材料一体化合同。",
-      "url": "https://wallstreetcn.com/livenews/3145365",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "11:08:56",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "牧原股份：7月份，公司销售商品猪666.1万头，同比变动4.82%；商品猪销售均价10.64元/公斤，同比变动-25.59%；商品猪销售收入88.97亿元，同比变动-23.56%。",
-      "url": "https://wallstreetcn.com/livenews/3145362",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "11:07:47",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "中赋科技：拟与合肥国有资本创业投资有限公司共同投资收购军科正源控制权，中赋正源拟将注册资本由1亿元增加至4亿元，分三期完成增资。",
-      "url": "https://wallstreetcn.com/livenews/3145361",
       "sentiment": "中性",
       "isRed": false
     }
