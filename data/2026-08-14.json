@@ -1,162 +1,189 @@
 {
   "date": "2026-08-14",
-  "fetched_at": "2026-08-14T19:46:05Z",
+  "fetched_at": "2026-08-14T20:28:01Z",
   "items": [
     {
-      "time": "03:45:13",
+      "time": "04:24:58",
       "source": "新浪财经",
       "title": "",
-      "content": "市场消息：杠杆基金将看涨墨西哥比索的押注升至2024年以来的最高水平。",
+      "content": "特朗普：伊朗货币毫无价值。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:44:55",
+      "time": "04:24:43",
       "source": "新浪财经",
       "title": "",
-      "content": "市场消息：派拉蒙‑华纳兄弟探索已满足合并协议项下全部监管条件。",
+      "content": "特朗普：伊朗仍然拥有导弹和无人机，但不多。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:44:36",
+      "time": "04:24:37",
       "source": "新浪财经",
       "title": "",
-      "content": "特朗普：纽约州州长在打击犯罪方面做得不好。",
+      "content": "特朗普重申伊朗已无防御力量。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:41:12",
+      "time": "04:23:57",
       "source": "新浪财经",
       "title": "",
-      "content": "美国代理海军部长 ：美国“亚伯拉罕·林肯”号航空母舰将按计划很快返航。",
+      "content": "特朗普：我们在伊朗问题上取得了重大胜利。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:38:26",
+      "time": "04:23:35",
       "source": "新浪财经",
       "title": "",
-      "content": "甲骨文股价放量扩大跌幅，最新下跌3.8%至150.21美元。",
-      "url": "",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "03:35:48",
-      "source": "新浪财经",
-      "title": "",
-      "content": "甲骨文公司：木星项目仍按计划推进，我们继续与合作伙伴紧密协作以推动项目进展。",
+      "content": "特朗普：每周从委内瑞拉获取数百万桶石油。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:33:30",
-      "source": "新浪财经",
-      "title": "巴勒斯坦谴责以方定居点“民事执法权”移交计划",
-      "content": "【巴勒斯坦谴责以方定居点“民事执法权”移交计划】巴勒斯坦副总统侯赛因·谢赫14日谴责以色列拟将约旦河西岸犹太人定居点的“民事执法权”从以军移交至以警方，指责这一计划意在巩固以方对巴方被占领土的非法吞并。谢赫发表声明说，任何形式的定居点活动均属非法。对被占巴方领土的任何部分，以色列均不拥有主权。谢赫指出，以色列的做法公然违反国际法和联合国相关决议，意在将以色列法律和主权强加于包括东耶路撒冷在内的约旦河西岸地区，进一步巩固对巴勒斯坦领土的非法吞并。（新华社）",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "03:32:42",
+      "time": "04:20:56",
       "source": "新浪财经",
       "title": "",
-      "content": "CFTC：原油投机客在截至8月11日当周将WTI净多头仓位增加4,034口，至105,860口。",
+      "content": "特朗普发言吹捧美国股市。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:31:26",
+      "time": "04:19:57",
       "source": "新浪财经",
       "title": "",
-      "content": "特朗普称赞帕特尔。",
+      "content": "索罗斯基金管理有限责任公司将亚马逊持股削减39.2%，至120万股。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:30:44",
+      "time": "04:18:24",
       "source": "新浪财经",
       "title": "",
-      "content": "特朗普：布兰奇将成为传奇。",
+      "content": "索罗斯基金管理有限责任公司增持苹果公司股份5.8%，至529,538股。",
       "url": "",
-      "sentiment": "中性",
+      "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "03:25:05",
+      "time": "04:18:04",
+      "source": "新浪财经",
+      "title": "伯克希尔·哈撒韦第二季度增持谷歌",
+      "content": "【伯克希尔·哈撒韦第二季度增持谷歌】伯克希尔·哈撒韦在第二季度清仓了星座品牌（STZ）；减持了克罗格（KR）、第一资本金融（COF）、纽柯钢铁（NUE）、Ally金融（ALLY）、达维塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、达美航空（DAL）、莱纳房屋（LEN）、梅西百货（M）。",
+      "url": "",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "04:18:01",
       "source": "新浪财经",
       "title": "",
-      "content": "特朗普表示：不在乎是否在中期选举前打击伊朗经济。",
+      "content": "受伯克希尔哈撒韦公司13F文件显示增持股份影响，梅西百货股价上涨1.2%。",
       "url": "",
-      "sentiment": "中性",
+      "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "03:24:53",
+      "time": "04:17:51",
       "source": "新浪财经",
       "title": "",
-      "content": "特朗普：纽约正朝着糟糕的方向发展，我要改变它。",
+      "content": "特朗普：美国有能力摧毁伊朗，但我们不想那样做。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:23:50",
-      "source": "新浪财经",
-      "title": "美国医保高管被枪杀案嫌疑人对跟踪指控表示认罪",
-      "content": "【美国医保高管被枪杀案嫌疑人对跟踪指控表示认罪】美国联合健康保险公司首席执行官布赖恩·汤普森被枪杀一案的嫌疑人路易吉·曼焦内14日就联邦跟踪指控表示认罪。曼焦内当天在纽约一家联邦法院供述时承认自己枪杀了汤普森。联邦法官将其量刑日期定于12月18日。曼焦内目前面临联邦指控和州指控，媒体认为其此番认罪意在寻求撤销纽约州一级的谋杀指控，并推迟审判进程。（新华社）",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "03:18:38",
+      "time": "04:17:11",
       "source": "新浪财经",
       "title": "",
-      "content": "特朗普表示，美国将对伊朗实施严厉经济打击。",
+      "content": "市场消息：有报道称美伊停火协议目前暂无延期计划。",
       "url": "",
       "sentiment": "中性",
       "isRed": true
     },
     {
-      "time": "03:08:38",
+      "time": "04:16:33",
       "source": "新浪财经",
       "title": "",
-      "content": "恒生指数主连夜盘收涨0.61%。恒生科技指数主连夜盘收涨0.81%。",
+      "content": "市场消息：白宫官员称美伊局势“稳定”。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:05:07",
+      "time": "04:16:08",
       "source": "新浪财经",
       "title": "",
-      "content": "夏威夷航空：因热带风暴拉拉，取消明日卡胡卢伊与檀香山之间的一趟航班。",
+      "content": "美国银行存款从前一周的19.368万亿美元增至19.496万亿美元。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "03:04:54",
+      "time": "04:13:20",
       "source": "新浪财经",
       "title": "",
-      "content": "Waymo：我们已获得加州公用事业委员会批准，将在旧金山湾区、洛杉矶扩大服务，并于萨克拉门托、圣地亚哥推出服务。",
+      "content": "D.R. HORTON股价盘后上涨3.3%。",
+      "url": "",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "04:12:38",
+      "source": "新浪财经",
+      "title": "",
+      "content": "APPALOOSA第二季度减持阿里巴巴、惠而浦、高通、AMD和美光。清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+      "url": "",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "04:12:07",
+      "source": "新浪财经",
+      "title": "",
+      "content": "美国国家铁路客运公司（Amtrak）：新建中西部维修设施预计将在约18个月的开发建设阶段创造约3000个就业岗位。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "04:11:11",
+      "source": "新浪财经",
+      "title": "",
+      "content": "美国铁路公司(Amtrak)：获得最高5.72亿美元及最高8700万美元的拨款，将用于解决芝加哥长期存在的铁路基础设施需求。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "04:11:03",
+      "source": "新浪财经",
+      "title": "",
+      "content": "伯克希尔哈撒韦公司增持达美航空股份44.0%，至5,730万股。",
+      "url": "",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "04:10:45",
+      "source": "新浪财经",
+      "title": "",
+      "content": "COATUE MANAGEMENT LLC将微软持股增加18.4%至290万股。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "8月14日晚间，贵州茅台发布2026年半年报。报告显示，上半年公司实现营业总收入922.78亿元，同比增长1.3%，利润总额614.38亿元，归母净利润445.17亿元。",
@@ -165,7 +192,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "军工板块异动拉升，成飞集成直线涨停，亚星锚链此前涨停，晨曦航空、江龙船艇、国科军工、中航成飞等个股跟涨，板块整体表现强势。",
@@ -174,7 +201,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "稀土永磁概念震荡走强，中国稀土逼近涨停，中稀有色、九菱科技、中科磁业、北方稀土跟涨。消息面上，氧化镨钕上半年涨幅达22.42%，氧化镝上涨5.97%，氧化铽涨幅8.37%。稀土价格上行直接增厚产业链企业经营收益。据SMM统计，已披露半年报、业绩快报及业绩预告的10家稀土相关企业，上半年业绩均实现不同程度增长。",
@@ -183,7 +210,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "电力板块集体回落，华银电力逼近跌停，豫能控股、华电辽能、梅雁吉祥、粤电力A、立新能源、京能电力跌幅居前。",
@@ -192,7 +219,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "超节点概念反复活跃，共进股份2连板，星网锐捷、紫光股份、海达尔、菲菱科思、锐捷网络跟涨。消息面上，阿里云灵骏真武M890超节点实例正式上线，是国内首个成功运行超2万亿参数大模型的超节点形态算力。",
@@ -201,7 +228,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "早盘液冷服务器概念活跃，康盛股份涨停，阿莱德涨超15%，捷邦科技、金田股份、精研科技、思泉新材等跟涨。消息面上，由中科曙光旗下曙光数创牵头编制的我国首部数据中心液冷国家标准正式获批发布。",
@@ -210,7 +237,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "港股半导体板块持续走强，截至发稿，中芯国际涨4.74%，兆易创新涨4.09%，天数智芯涨3.64%。",
@@ -219,7 +246,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "CRO概念盘中持续走高，南模生物20cm涨停，博济医药也涨停，万邦医药涨18%，近岸蛋白、皓元医药、睿智医药、奥浦迈、百奥赛图涨幅靠前。",
@@ -228,7 +255,7 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "早盘CPO概念震荡拉升，天孚通信涨近10%，炬光科技、源杰科技、华懋科技、新易盛、东山精密等跟涨。消息面上，美股光通信巨头密集披露财报，Lumentum预测2027财年第一季度净收入区间为12.3亿至12.8亿美元，市场预估为11.5亿美元。Coherent Corp对下一财季营收的预期中值为23亿美元，高于分析师预期的21.4亿美元。",
@@ -237,12 +264,237 @@
       "isRed": false
     },
     {
-      "time": "19:46:04",
+      "time": "20:28:01",
       "source": "雪球热点事件",
       "title": "",
       "content": "早盘食品饮料板块再度活跃，皇氏集团4连板，一鸣食品、会稽山、熊猫乳品、百合股份、好想你等跟涨。消息面上，数据显示，立秋当天，瑞幸咖啡“秋天的第一杯奶茶”销量达到2500万杯，单日杯量创历史新高；蜜雪冰城也宣布相关销量突破年度新纪录。",
       "url": "",
       "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:25:36",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "特朗普表示，每周从委内瑞拉获取数百万桶石油。",
+      "url": "https://wallstreetcn.com/livenews/3149874",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:25:36",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，特朗普表示，伊朗仍拥有导弹和无人机，但数量并不多。",
+      "url": "https://www.cls.cn/telegraph/2.455032e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:24:36",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，特朗普表示，每周从委内瑞拉获取数百万桶石油。",
+      "url": "https://www.cls.cn/telegraph/2.455031e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:22:30",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "白宫官员称美伊局势暂无变化，尚未有关于美伊停火协议延长的消息 。",
+      "url": "https://wallstreetcn.com/livenews/3149873",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:18:48",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，据报道，美伊停火目前尚无延期安排。",
+      "url": "https://www.cls.cn/telegraph/2.45503e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:16:05",
+      "source": "华尔街见闻-美股",
+      "title": "伯克希尔哈撒韦Q2增持谷歌",
+      "content": "美国SEC文件显示，伯克希尔哈撒韦公司在第二季度对Alphabet(GOOG.O)A类股持仓增加45.2%，至7880万股；C类股持仓增至2720万股。\n\n还增持了达美航空（DAL）、莱纳房屋（LEN）、梅西百货（M）。\n\n清仓了星座品牌（STZ）；减持了克罗格（KR）、第一资本金融（COF）、纽柯钢铁（NUE）、Ally金融（ALLY）、达维塔（DVA）。",
+      "url": "https://wallstreetcn.com/livenews/3149872",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "20:15:05",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+      "url": "https://www.cls.cn/telegraph/2.455028e+06",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "20:14:26",
+      "source": "财联社电报",
+      "title": "Viking Global第二季度减持特斯拉、迪士尼等",
+      "content": "【Viking Global第二季度减持特斯拉、迪士尼等】财联社8月15日电，Viking Global在第二季度减持了特斯拉、迪士尼、洲际交易所、嘉信理财、麦当劳；清仓了苹果、CSX运输、谷歌、PNC金融、T-Mobile；新建了法拉利、明晟、联合太平洋铁路、数字房地产信托、CVS健康的头寸；增持了亚马逊、Meta平台、宣伟公司、盈透证券、Visa。",
+      "url": "https://www.cls.cn/telegraph/2.455027e+06",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "20:10:02",
+      "source": "外媒",
+      "title": "Tricolor前首席执行官将面临与汽车贷款公司破产案相关的最严重刑事指控",
+      "content": "Jonathan Stempel周五，一名联邦法官驳回了前三色控股公司（Tricolor Holdings）首席执行官丹尼尔·朱（Daniel Chu）提出的动议，该动议旨在撤销针对他的主要指控。刑事起诉书指控他实施系统性欺诈，导致这家现已破产的次级汽车贷款机构倒闭。曼哈顿联邦地区法官凯文·卡斯特尔（Kevin Castel）表示，检方提供了充分细节，足以支持对丹尼尔·朱组织持续性金融犯罪团伙的指控。被定罪的被告将面临至少10年的强制性最低刑期，最高可能判处终身监禁，外加最高1,000万美元的罚款。朱对八项指控均不认罪，其中包括银行欺诈、证券欺诈、电汇欺诈和共谋罪。庭审定于2027年1月25…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B193:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:05:15",
+      "source": "华尔街见闻-美股",
+      "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
+      "content": "美股周五收盘，道指收跌0.20%，标普500指数跌0.17%，纳指跌0.28%。\n\n无人机技术公司Unusual Machines(UMAC.N)大涨24.83%。\n\n存储概念股维持涨势，闪迪涨7.39%、美光涨2.3%。半导体股票涨跌互现，AMD涨6.5%、博通跌5.94%、应用材料跌5.12%。\n\n光通信股走高，Applied Optoelectronics涨超15%，康宁涨超4%，Lumentum涨超5%。\n\n“科技七巨头”涨跌不一，特斯拉涨0.68%，苹果涨0.22%，英伟达跌0.06%，谷歌跌0.12%，微软跌0.30%，Meta Platforms跌0.86%，亚马逊跌0.94%。\n\n纳斯达克中国金龙指数涨0.6%。",
+      "url": "https://wallstreetcn.com/livenews/3149871",
+      "sentiment": "看跌",
+      "isRed": true
+    },
+    {
+      "time": "20:04:24",
+      "source": "外媒",
+      "title": "BTC突破63000美元，日内涨幅 0.03%",
+      "content": "PANews 8月15日消息，欧易OKX行情显示，BTC刚刚突破63000美元，现报63003.00美元/枚，日内涨幅 0.03%。",
+      "url": "https://cn.tradingview.com/news/panews:7bd69b698e3f9:0",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:03:17",
+      "source": "外媒",
+      "title": "美国监管机构批准了由特朗普支持的加密货币公司World Liberty Financial的银行执照申请",
+      "content": "Lawrence Delevingne/Pete Schroeder美国一家国家级银行监管机构周五有条件批准了一项与唐纳德·特朗普总统及其家族加密货币企业“世界自由金融”（World Liberty Financial）相关的银行执照申请，这实际上为其稳定币业务的扩张开了绿灯。美国货币监理署（OCC）在其官网发布的一封信函中表示，已对“世界自由信托公司”（World Liberty Trust Company）申请的国家信托牌照给予有条件的初步批准，该公司于今年1月提交了该申请 。该执照一旦在日后获得最终批准，将允许“世界自由”通过新成立的信托银行代表客户管理和持有资产，并加快支付结算速度。…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B18T:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:02:38",
+      "source": "外媒",
+      "title": "标普500指数收跌，投资者权衡经济数据及中东局势",
+      "content": "Noel Randewich周五，受应用材料公司拖累，标普500指数从历史高点回落，收盘走低，投资者同时消化了低于预期的零售销售数据。应用材料公司（ NASDAQ:AMAT）股价下跌，因其乐观的季度业绩预测 未能打动投资者。受人工智能数据中心建设带来的强劲需求推动，这家芯片设备制造商的股价在2026年已翻了一番。鉴于投资者对近年来飙升的AI相关股票高估值感到担忧，包括博通 NASDAQ:AVGO 和英特尔 NASDAQ:INTC 在内的芯片制造商股价周五也出现下跌。“目前市场上的许多驱动因素都与人工智能的各个方面有关，而应用材料公司就是一个例子——尽管它们实现了‘业绩超预期且上调指引’，但由…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B18L:0",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:01:50",
+      "source": "财联社电报",
+      "title": "利弗莫尔中概股龙头指数收涨0.24%",
+      "content": "【利弗莫尔中概股龙头指数收涨0.24%】财联社8月15日电，利弗莫尔中概股龙头指数收涨0.24%。成分股中，慧荣科技涨7.94%，麦思智能涨4.56%，脑再生科技涨4.01%，奇景光电涨3.75%，华住涨3.31%。",
+      "url": "https://www.cls.cn/telegraph/2.455026e+06",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:01:00",
+      "source": "财联社电报",
+      "title": "纳指收跌0.3% 闪迪涨超7%",
+      "content": "【纳指收跌0.3% 闪迪涨超7%】财联社8月15日电，美股三大指数集体收跌，道指跌0.2%，纳指跌0.28%，标普500指数跌0.17%。存储板块走强，闪迪涨超7%，希捷科技涨超5%，西部数据涨超4%，美光科技涨超2%。半导体设备股走弱，应用材料跌超5%，科磊跌超2%。光通信股走高，Applied Optoelectronics涨超15%，康宁涨超4%，Lumentum涨超5%。“科技七巨头”涨跌不一，特斯拉涨0.68%，苹果涨0.22%，英伟达跌0.06%，谷歌跌0.12%，微软跌0.30%，Meta Platforms跌0.86%，亚马逊跌0.94%。",
+      "url": "https://www.cls.cn/telegraph/2.455025e+06",
+      "sentiment": "看跌",
+      "isRed": true
+    },
+    {
+      "time": "20:00:50",
+      "source": "外媒",
+      "title": "美股三大指数集体收跌，HOOD跌超4.19%",
+      "content": "PANews 8月15日消息，据Bybit行情，美股三大指数集体收跌，道指跌0.30%，纳指跌0.21%，标普500指数跌0.28%。加密概念股普跌，其中COIN(Coinbase)日内下跌3.09%；HOOD（Robinhood）日内下跌4.19%。",
+      "url": "https://cn.tradingview.com/news/panews:a075c2abce3f9:0",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "19:59:59",
+      "source": "外媒",
+      "title": "消息人士称，美国联邦贸易委员会（FTC）正在调查医疗记录巨头Epic Systems",
+      "content": "Jody Godoy据两位知情人士向路透透露，拥有数亿美国人医疗记录的医疗保健数据库公司Epic Systems正面临美国联邦贸易委员会的反垄断调查。Epic运营着患者网络门户MyChart以及其他电子健康记录系统。据该公司网站称，其产品被美国医疗服务提供者广泛采用，这些机构累计为超过2.8亿人提供诊疗服务。消息人士称，美国联邦贸易委员会已向医疗科技行业的其他企业发出调查要求，寻求有关Epic如何授予或限制数据访问权限的信息。FTC的一位发言人拒绝置评。Epic的一位发言人未立即回应置评请求。这家总部位于威斯康星州的私营公司目前已面临得克萨斯州和竞争对手 Particle Health 提起…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B189:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:58:41",
+      "source": "华尔街见闻-美股",
+      "title": "印度拟向拥有成熟技术的外国核反应堆开放核电市场",
+      "content": "根据印度核能法案下的拟议规则和法规，企业在获得正式许可证之前，可先获得原则性批准，以开展供应商谈判、前期开发工作并取得项目用地。\n\n获得许可证后，核电项目将接受涵盖设计、选址、建设、调试和运营等环节的分阶段监管审查。监管机构还将拥有在项目关键阶段叫停工程的权力。",
+      "url": "https://wallstreetcn.com/livenews/3149870",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:55:33",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，特朗普重申美国不能让伊朗拥有核武器。",
+      "url": "https://www.cls.cn/telegraph/2.455024e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:55:01",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。\n\n特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
+      "url": "https://wallstreetcn.com/livenews/3149869",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "19:53:03",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "派拉蒙与华纳兄弟探索合并协议项下所有监管条件均已满足。",
+      "url": "https://wallstreetcn.com/livenews/3149868",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:51:00",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "Stripe与Advent洽谈收购PayPal。",
+      "url": "https://wallstreetcn.com/livenews/3149867",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:50:43",
+      "source": "外媒",
+      "title": "美国联邦贸易委员会（FTC）正在调查医疗记录公司Epic Systems",
+      "content": "Jody Godoy据两位知情人士向路透透露，拥有数亿美国人医疗记录的医疗保健数据库公司Epic Systems正面临美国联邦贸易委员会（FTC）的反垄断调查。消息人士称，美国联邦贸易委员会已向医疗科技行业的其他企业发出调查要求，寻求有关Epic如何授予或限制数据访问及互操作性的信息。FTC的一位发言人拒绝置评。Epic的一位发言人未立即回应置评请求。",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B184:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:47:23",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，Stripe和Advent洽谈收购贝宝。",
+      "url": "https://www.cls.cn/telegraph/2.455023e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "19:46:48",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社8月15日电，派拉蒙与华纳兄弟探索合并协议项下所有监管条件均已满足。",
+      "url": "https://www.cls.cn/telegraph/2.455022e+06",
+      "sentiment": "中性",
       "isRed": false
     },
     {
@@ -260,15 +512,6 @@
       "title": "",
       "content": "财联社8月15日电，美国代理海军部长表示，“亚伯拉罕·林肯”号将按计划很快返航。",
       "url": "https://www.cls.cn/telegraph/2.455021e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "19:41:19",
-      "source": "外媒",
-      "title": "Tricolor前首席执行官将面临与汽车贷款公司破产案相关的最严重刑事指控",
-      "content": "Jonathan Stempel周五，一名联邦法官驳回了三色控股（Tricolor Holdings）前首席执行官丹尼尔·朱（Daniel Chu）提出的动议，该动议旨在撤销针对他的主要指控。刑事起诉书指控他实施系统性欺诈，导致这家现已破产的次级汽车贷款机构倒闭。曼哈顿联邦地区法官凯文·卡斯特尔表示，检方提供了充分细节，足以支持对朱某组织持续性金融犯罪团伙的指控。被定罪的被告将面临至少10年的强制性最低刑期，最高可能判处终身监禁，此外还将面临最高1,000万美元的罚款。朱的律师尚未立即回应置评请求。朱某对八项指控均不认罪，其中包括银行欺诈、证券欺诈、电汇欺诈和共谋。其一名律师此前曾表示朱某是…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B17Z:0",
       "sentiment": "中性",
       "isRed": false
     },
@@ -356,8 +599,8 @@
     {
       "time": "19:19:44",
       "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，特朗普表示，将从经济层面打击伊朗。",
+      "title": "特朗普称将在经济上对伊朗实施严厉打击",
+      "content": "【特朗普称将在经济上对伊朗实施严厉打击】财联社8月15日电，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。 (央视新闻)",
       "url": "https://www.cls.cn/telegraph/2.455017e+06",
       "sentiment": "中性",
       "isRed": false
@@ -435,24 +678,6 @@
       "isRed": false
     },
     {
-      "time": "18:54:12",
-      "source": "外媒",
-      "title": "美国证券交易委员会提议放宽针对投资顾问的“付费参与”规则",
-      "content": "Pritam Biswas美国证券交易委员会（SEC）提议放宽相关规定，此前这些规定禁止投资顾问在向州及地方官员提供政治捐款后管理公共养老金。美国管理和预算办公室网站上的一则公告显示，该监管机构已于周三将该提案提交白宫审议。该提案建议对SEC针对投资顾问的“付费参与”规则进行修改。该公告称，此次改革旨在减轻已识别的合规负担。该提案尚处于初期阶段，监管机构正在就拟议的规则变更征求反馈意见。“现行的‘付费参与’规则造成了不必要的合规负担，并对投资顾问施加了过度限制，”美国证券交易委员会（SEC）一位发言人在发给路透的电子邮件声明中表示。“委员会正倾听多年来来自各政治派别的投诉，并将考虑一项提案以…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B178:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:48:19",
-      "source": "外媒",
-      "title": "标普500指数从历史高点回落，投资者正权衡经济数据及中东局势",
-      "content": "Noel Randewich/Purvi Agarwal受应用材料公司拖累，标普500指数周五从历史高位回落，与此同时，投资者正在消化低于预期的零售销售数据，且霍尔木兹海峡的航道基本处于关闭状态。应用材料公司（ NASDAQ:AMAT）股价下跌5.5%，因其乐观的季度业绩预测 未能打动投资者。受人工智能数据中心建设带来的强劲需求推动，这家芯片设备制造商的股价在2026年已翻了一番。鉴于投资者对近年来飙升的AI相关股票高估值感到担忧，博通（ NASDAQ:AVGO）股价下跌6.8%，费城SE半导体指数（ NASDAQ:SOX）下跌1.2%。“目前市场上的许多驱动因素都与人工智能的各个方面有关，…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B16Z:0",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
       "time": "18:43:48",
       "source": "华尔街见闻-美股",
       "title": "",
@@ -471,26 +696,8 @@
       "isRed": false
     },
     {
-      "time": "18:37:07",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，香港天文台发布黄色暴雨警告。",
-      "url": "https://www.cls.cn/telegraph/2.455009e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:35:31",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。沪银2609合约夜盘收涨0.68%，报15820元/千克。沪金2609合约夜盘收涨0.63%，报949.66元/克。",
-      "url": "https://www.cls.cn/telegraph/2.455008e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "18:35:06",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。\n\n沪银2609合约夜盘收涨0.68%，报15820元/千克。\n\n沪金2609合约夜盘收涨0.63%，报949.66元/克。",
       "url": "https://wallstreetcn.com/livenews/3149853",
@@ -498,44 +705,8 @@
       "isRed": false
     },
     {
-      "time": "18:31:12",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，墨西哥央行将官方比索汇率设定为1美元兑17.0218比索。",
-      "url": "https://www.cls.cn/telegraph/2.455007e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:30:48",
-      "source": "外媒",
-      "title": "全球金市：金价受美元走软推动上涨；通胀数据进一步巩固利率维持不变预期",
-      "content": "受美元走软提振，黄金价格周五上涨，并有望实现周线收涨。此前，本周公布的美国通胀数据符合市场预期，这使得市场普遍认为美联储下月将维持利率不变。1740 GMT，现货金 TVC:GOLD 上涨0.7%，报每盎司4,379.95美元。前一交易日，金价在触及6月5日以来最高点后因获利了结而下跌1.3%。本周迄今，金价累计上涨约0.9%。美国期金 TVC:GOLD 收盘上涨0.4%，报4,437.30美元。“美元指数走低为今日金价提供了有利的外部市场支撑，”American Gold Exchange市场分析师Jim Wyckoff表示。美元指数下跌0.3%，使得以美元计价的黄金对海外买家而言更具性价…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S44B10I:0",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "18:25:27",
-      "source": "外媒",
-      "title": "加拿大汽车工人工会：斯泰兰蒂斯正考虑出售加拿大工厂",
-      "content": "Kalea Hall代表加拿大底特律三大汽车制造商工人的工会Unifor本周表示，已收到Stellantis的通知，称该公司正在考虑出售其位于安大略省布兰普顿的工厂。布兰普顿工厂曾于2024年因设备改造而停产。该厂原定于2025年重新投产，生产Jeep Compass车型，但在美国总统唐纳德·特朗普对加拿大商品加征关税后，Stellantis暂停了设备改造，并将生产转移至伊利诺伊州的一家工厂。Unifor工会即将与Stellantis就涵盖布兰普顿工厂、温莎装配厂和埃托比科克铸造厂的新合同展开谈判。现行合同将于9月20日到期。此前有报道称，Stellantis正与中国合作伙伴浙江勒普汽车科技…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B16K:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:24:55",
-      "source": "外媒",
-      "title": "Sun Communities、思科系统、Paysafe",
-      "content": "周五，科技股拖累华尔街股市走低，此前一个交易日，正是科技股推动标普500指数创下历史新高；与此同时，投资者正在消化低于预期的零售销售数据，并密切关注中东局势的发展。美国东部时间下午1:30，道琼斯工业平均指数 DJ:DJI 下跌0.20%，报53,731.31点。标普500指数 CBOE:SPX 下跌0.25%，报7,779.76点；纳斯达克综合指数 TVC:IXIC 下跌0.47%，报26,677.94点。标普500指数 SP:SPX 涨幅排名前三的个股：** Copart Inc NASDAQ:CPRT，上涨7.4%** 闪迪公司（Sandisk Corporation） NASDAQ…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B16J:0",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
       "time": "18:20:42",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "甲骨文股价跌至盘中低点4.3%",
       "content": "用于甲骨文数据中心的天然气管道项目已被推迟至2027年2月。",
       "url": "https://wallstreetcn.com/livenews/3149852",
@@ -544,7 +715,7 @@
     },
     {
       "time": "18:20:23",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
       "url": "https://wallstreetcn.com/livenews/3149851",
@@ -553,7 +724,7 @@
     },
     {
       "time": "18:19:38",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "Tiger Global披露二季度13F持仓：\n\n减持Alphabet、博通、Spotify、Meta等；同时新建AMD、希捷、Visa、丹纳赫等仓位。\n\n增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。",
       "url": "https://wallstreetcn.com/livenews/3149850",
@@ -561,35 +732,8 @@
       "isRed": false
     },
     {
-      "time": "18:18:38",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-      "url": "https://www.cls.cn/telegraph/2.455006e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:15:56",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，用于甲骨文数据中心的天然气管道项目已被推迟至2027年2月。",
-      "url": "https://www.cls.cn/telegraph/2.455005e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:05:27",
-      "source": "财联社电报",
-      "title": "德国农民协会：高温干旱或致部分地区农作物减产甚至绝收",
-      "content": "【德国农民协会：高温干旱或致部分地区农作物减产甚至绝收】财联社8月15日电，德国农民协会表示，受持续高温干旱影响，今年德国农业可能出现明显减产。德国农民协会主席约阿希姆·鲁克维德表示，今年小麦和油菜籽的产量预计将低于平均水平，玉米、大豆等秋季作物也可能出现较大幅度减产。鲁克维德说，德国南部受干旱影响尤为严重，农作物面临绝收的风险。他还指出，持续高温和干旱还导致饲料作物减产，畜牧业也受到影响。 (央视新闻)",
-      "url": "https://www.cls.cn/telegraph/2.455004e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "18:04:17",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "智利国有铜业公司Codelco将关闭Chuquicamata和Ministro Hales矿区。",
       "url": "https://wallstreetcn.com/livenews/3149849",
@@ -597,17 +741,8 @@
       "isRed": false
     },
     {
-      "time": "18:00:53",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，智利国家铜业公司（Codelco）据悉将关停丘基卡马塔（Chuquicamata）和米尼斯特罗·哈尔斯（Ministro Hales）两座矿山。",
-      "url": "https://www.cls.cn/telegraph/2.455003e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "17:59:47",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "博通股价跌幅扩大至6.7%，创6月5日以来最大单日跌幅。",
       "url": "https://wallstreetcn.com/livenews/3149848",
@@ -615,17 +750,8 @@
       "isRed": false
     },
     {
-      "time": "17:58:34",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，博通跌幅扩大至6.7%，创下自6月5日以来的最大日内跌幅。",
-      "url": "https://www.cls.cn/telegraph/2.455002e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "17:56:03",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
       "url": "https://wallstreetcn.com/livenews/3149847",
@@ -633,38 +759,11 @@
       "isRed": false
     },
     {
-      "time": "17:55:15",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，伊朗总统据悉将出访印度参加金砖国家峰会。",
-      "url": "https://www.cls.cn/telegraph/2.455e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:54:37",
-      "source": "财联社电报",
-      "title": "印度下调成品油出口暴利税",
-      "content": "【印度下调成品油出口暴利税】财联社8月15日电，印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
-      "url": "https://www.cls.cn/telegraph/2.454999e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
       "time": "17:51:31",
-      "source": "华尔街见闻-美股",
+      "source": "华尔街见闻-全球7x24",
       "title": "",
       "content": "VIX指数跌幅扩大，触及12月30日以来的盘中最低点。",
       "url": "https://wallstreetcn.com/livenews/3149846",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:51:25",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社8月15日电，恐慌指数VIX跌幅扩大，触及去年12月30日以来的盘中最低点。",
-      "url": "https://www.cls.cn/telegraph/2.454998e+06",
       "sentiment": "中性",
       "isRed": false
     },
@@ -685,87 +784,6 @@
       "url": "https://wallstreetcn.com/livenews/3149844",
       "sentiment": "看涨",
       "isRed": false
-    },
-    {
-      "time": "17:32:28",
-      "source": "外媒",
-      "title": "标普500指数成分股的盈利正在增长。零售板块将带来怎样的表现？",
-      "content": "标普500指数企业盈利持续增长。零售板块将带来怎样的表现？根据伦敦证券交易所集团（LSEG）的最新数据，标普500指数 CBOE:SPX 成分股公司第二季度盈利的综合预期在上周小幅上调，经调整的同比增速目前预计为33.1%，高于一周前的32.7%。据LSEG盈利与股票研究主管塔金德·迪隆（Tajinder Dhillon）的报告显示，这一数据与财报季开始前的7月1日市场预期24.4%相比有所提升。上周和本周的数据均经过调整，剔除了亚马逊 NASDAQ:AMZN 和Alphabet NASDAQ:GOOG 的按市价计量的投资收益；若将这些收益计入，本季度的增长率将高达51.6%。若剔除能源板块…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S44B162:0",
-      "sentiment": "看涨",
-      "isRed": false
-    },
-    {
-      "time": "17:19:31",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "也门胡塞武装据悉使用无人机袭击了沙特阿美公司在纳季兰的设施。",
-      "url": "https://wallstreetcn.com/livenews/3149843",
-      "sentiment": "中性",
-      "isRed": true
-    },
-    {
-      "time": "17:18:43",
-      "source": "华尔街见闻-全球7x24",
-      "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
-      "content": "特朗普在安德鲁斯联合基地（JBA）接受记者采访时表示，美国经济表现“难以置信地好”，并盛赞近期股市表现。此外，特朗普在谈及“亚伯拉罕·林肯”号航母时表示，“那艘船正在航行”。",
-      "url": "https://wallstreetcn.com/livenews/3149842",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:15:57",
-      "source": "华尔街见闻-全球7x24",
-      "title": "德国莱茵河考布水位创历史新低，航运或被“截断”",
-      "content": "当地时间8月14日，德国莱茵河中游考布河段水位降至约8厘米，创下历史新低，此前最低纪录为2018年10月的25厘米。\n\n考布河段位于莱茵兰‑普法尔茨州科布伦茨与美因茨之间，是衡量莱茵河航运状况的重要参考点。德国内河航运协会警告，如果考布水位降至个位数，莱茵河可能无法保持全线通航，南北航运甚至可能被“截断”。\n\n目前考布以南航运已严重受限，预报周末水位将进一步跌至5至6厘米。\n\n莱茵河是欧洲重要内河货运通道，若出现断航，将冲击德国及欧洲的供应链，推高运输成本，影响相关工业生产。持续低水位还会抬升水温、降低水体溶氧，威胁鱼类生存，加剧水质恶化风险。\n\n低水位的影响还波及邻国法国。14日上午，法国大东部大区约14%加油站供应不足，阿尔萨斯、孚日地区受影响比例达25%至50%，燃料船舶难以抵达斯特拉斯堡港。",
-      "url": "https://wallstreetcn.com/livenews/3149841",
-      "sentiment": "看跌",
-      "isRed": true
-    },
-    {
-      "time": "17:06:35",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "国际铜夜盘收涨0.47%，沪铜收涨0.49%，沪铝收涨0.08%，沪锌收涨0.41%，沪铅收跌0.22%，沪镍收涨0.07%，沪锡收涨0.36%。\n\n氧化铝夜盘收跌0.19%，铝合金收涨0.24%。\n\n不锈钢夜盘收跌0.49%。",
-      "url": "https://wallstreetcn.com/livenews/3149839",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:04:11",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "贝克休斯：美国能源公司在三周内第二次增加钻井平台。美国油气钻井平台数量上升至2025年3月以来的最高水平。",
-      "url": "https://wallstreetcn.com/livenews/3149838",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:02:16",
-      "source": "华尔街见闻-全球7x24",
-      "title": "法国国债大跌，领跌欧元区债市",
-      "content": "法国与德国国债利差扩大至10月份以来最阔。\n\n法国与德国10年期国债利差扩大3个基点，至84个基点；意大利与德国10年期国债利差扩大2个基点，至78个基点。\n\n法国30年期国债收益率升至2008年以来最高水平，而同期限德国国债收益率则跳升9个基点，至3.73%，创15年来最高。\n\n交易员一度将欧洲央行加息预期上调5个基点，目前预计到年底将收紧40个基点。\n\n英国国债也大幅下跌，长端领跌；英国30年期国债收益率上涨9个基点，至三周高点5.88%。互换市场显示，交易员目前预计英国央行将加息28个基点，周四为26个基点。",
-      "url": "https://wallstreetcn.com/livenews/3149837",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "17:01:18",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "美国8月14日当周石油钻井数 455，前值 454。",
-      "url": "https://wallstreetcn.com/livenews/3149836",
-      "sentiment": "中性",
-      "isRed": true
-    },
-    {
-      "time": "17:01:18",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "美国8月14日当周天然气钻井数 128，前值 124。",
-      "url": "https://wallstreetcn.com/livenews/3149835",
-      "sentiment": "中性",
-      "isRed": true
     },
     {
       "time": "15:18:17",
