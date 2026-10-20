@@ -1,860 +1,824 @@
 {
   "date": "2026-10-20",
-  "fetched_at": "2026-10-20T18:19:20Z",
+  "fetched_at": "2026-10-20T22:04:21Z",
   "items": [
     {
-      "time": "02:18:34",
+      "time": "06:01:30",
       "source": "新浪财经",
       "title": "",
-      "content": "美国总统特朗普：从这个国家被窃取的资金规模高达数万亿美元。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:17:35",
-      "source": "新浪财经",
-      "title": "",
-      "content": "美国将安排普京与泽连斯基和特朗普进行面对面会谈。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:15:37",
-      "source": "新浪财经",
-      "title": "",
-      "content": "美国总统特朗普：Fraud.gov将受理有关腐败和盗窃的举报。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:15:26",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：通胀预期锚定，但高于常规水平。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:11:32",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：需要担心当前政策立场不够具有限制性。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:10:44",
-      "source": "新浪财经",
-      "title": "",
-      "content": "美国总统特朗普在白宫发表讲话。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:10:01",
-      "source": "新浪财经",
-      "title": "",
-      "content": "特朗普：万斯的表现令人惊叹。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:05:48",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：供应冲击仍将频繁出现。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:05:32",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：通胀率超过3%时人们才会注意到。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:04:08",
-      "source": "新浪财经",
-      "title": "",
-      "content": "OpenAI：将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:03:21",
-      "source": "新浪财经",
-      "title": "",
-      "content": "OpenAI：（收购生物医疗企业Orchestra Bio）旨在加速药物研发，从药物发现到患者治疗的进程。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:00:49",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：要实现CPI目标，需要更多薪资通胀放缓的证据。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "02:00:14",
-      "source": "新浪财经",
-      "title": "",
-      "content": "埃森哲：计划将为最多500家资源不足的公用事业公司免费提供技术、部署服务和培训。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "01:59:55",
-      "source": "新浪财经",
-      "title": "",
-      "content": "埃森哲、Dragos以及SANS研究所共同推出专项基金会，为资源有限的美国公用事业企业加强网络防御。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "01:59:22",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：3%的薪资涨幅与2%的通胀率相符。",
-      "url": "",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "01:59:00",
-      "source": "新浪财经",
-      "title": "",
-      "content": "英国央行委员格林：对英国央行关于符合通胀目标的薪资增长水平的估算感到担忧。",
+      "content": "澳大利亚三年期国债收益率上涨，投资者关注澳洲联储官员Hauser讲话。",
       "url": "",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "01:56:50",
+      "time": "06:01:23",
       "source": "新浪财经",
       "title": "",
-      "content": "OpenAI收购生物医疗企业Orchestra Bio。",
+      "content": "城堡投资创始人格里芬：赤字扩大将加剧通胀并削弱美元。",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "01:55:45",
+      "time": "05:59:38",
       "source": "新浪财经",
-      "title": "",
-      "content": "伊朗总统佩泽希齐扬表示，如果我们进行谈判，相信对方会再次发动攻击。",
+      "title": "泽连斯基称与美特使讨论美俄乌领导人会晤可能性",
+      "content": "【泽连斯基称与美特使讨论美俄乌领导人会晤可能性】乌克兰总统泽连斯基20日在社交媒体发文称，当天他与美国总统特朗普的特使威特科夫和欧洲伙伴在挪威首都奥斯陆举行会谈，讨论了美俄乌三方领导人会晤可能性。特朗普的女婿库什纳通过线上方式参加会谈。泽连斯基称，支持美方关于俄乌“能源停火”的提议，只要俄方停止袭击乌能源设施，乌方也将停止袭击俄方“敏感”能源设施。泽连斯基表示，期待威特科夫21日访俄时将乌欧关于实现和平的构想转达给俄方，其中一个关键构想是举行美俄乌三方领导人会晤以解决“只有领导人才能解决的问题”。（新华社）",
       "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "18:17:54",
-      "source": "华尔街见闻-美股",
+      "time": "05:55:51",
+      "source": "新浪财经",
       "title": "",
-      "content": "美国将建议普京与乌克兰总统泽连斯基、美国总统特朗普面谈。（Politico）",
-      "url": "https://wallstreetcn.com/livenews/3182102",
+      "content": "澳洲联储副主席Hauser：必须对供给冲击做出反应，锚定通胀预期。",
+      "url": "",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "18:15:20",
+      "time": "05:52:27",
+      "source": "新浪财经",
+      "title": "",
+      "content": "澳洲联储副主席Hauser：货币政策正在起效，但通胀前景趋于恶化。",
+      "url": "",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "05:51:59",
+      "source": "新浪财经",
+      "title": "",
+      "content": "澳洲联储副主席Hauser：通胀已经在高位持续很长一段时间，我们不能允许通胀预期偏离目标区间。劳动力数据和住房相关指标已经出现一定放缓。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:50:48",
+      "source": "新浪财经",
+      "title": "",
+      "content": "澳洲联储副主席Hauser：通胀前景较此前预测恶化，略高于预期。",
+      "url": "",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "05:48:48",
+      "source": "新浪财经",
+      "title": "",
+      "content": "城堡投资创始人格里芬：特朗普对盟友发起的关税战是一场灾难，特朗普在中期选举前的成绩喜忧参半。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:45:52",
+      "source": "新浪财经",
+      "title": "",
+      "content": "城堡投资创始人格里芬：特朗普在解释伊朗战争上做得非常糟糕。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:41:56",
+      "source": "新浪财经",
+      "title": "",
+      "content": "  Cadillac Mines 在 Galloway 的 Moriss 矿段，于先前钻孔沿倾向下方约 75 米处钻遇 4.4 米厚、品位 10.96 克 / 吨的金矿体，并发现第三条剪切带。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:34:54",
+      "source": "新浪财经",
+      "title": "",
+      "content": "  SpaceX 目标 2029 年在路易斯安那州实现规模化发射。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:34:36",
+      "source": "新浪财经",
+      "title": "",
+      "content": "城堡投资创始人格里芬：目前人工智能“几乎可以肯定”存在泡沫，泡沫与科技的巨大进步同时存在。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:32:59",
+      "source": "新浪财经",
+      "title": "",
+      "content": "马斯克：SpaceX将短期出租算力，SpaceX 推出 AI 数据中心短期租赁合约是明智之举。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "05:32:11",
+      "source": "新浪财经",
+      "title": "",
+      "content": "  亚马逊：亚马逊青年计划将在英国为年轻人开放 10000 个实习岗位，到 2030 年在英国为年轻人提供 3 万个岗位。项目所有岗位按比例折算年薪起薪均超过 31000 英镑，员工可享受私人医疗保险以及养老金福利。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:29:49",
+      "source": "新浪财经",
+      "title": "",
+      "content": "城堡基金肯·格里芬：城堡证券大部分超额收益来自研究员。投资者在布局人工智能时正变得更加审慎。部分企业难以从人工智能业务中兑现价值。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:28:46",
+      "source": "新浪财经",
+      "title": "",
+      "content": "肯·格里芬在全球市场未来大会上表示：AI模型进步“巨大”。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:26:20",
+      "source": "新浪财经",
+      "title": "",
+      "content": "马斯克：由于存在利益冲突，本人不能参与委员会的相关磋商。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:24:28",
+      "source": "新浪财经",
+      "title": "",
+      "content": "马斯克：特斯拉与SpaceX合并并非板上钉钉，股东得支持，合并有很多优点。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "05:23:03",
+      "source": "新浪财经",
+      "title": "",
+      "content": "南方铜业公司三季度销售47亿美元，分析师预期44.6亿美元。三季度调整后EBITDA为30.4亿美元，分析师预期29.1亿美元。",
+      "url": "",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "22:03:48",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "周三亚太盘初，纳指期货涨1%。",
+      "url": "https://wallstreetcn.com/livenews/3182180",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "22:03:32",
       "source": "华尔街见闻-全球7x24",
       "title": "",
-      "content": "英国央行货币政策委员会（MPC）成员Greene：需要担忧（央行货币政策）立场不具有足够的限制性。\n\n通胀预期被锚定，高于正常水平。",
-      "url": "https://wallstreetcn.com/livenews/3182101",
+      "content": "69%受访经济学家认为，日本央行四季度会将指标利率上调至1.5%，9月持这样预期的经济学家占比为36%。（路透）",
+      "url": "https://wallstreetcn.com/livenews/3182179",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "18:12:36",
-      "source": "财联社电报",
-      "title": "印尼一客轮起火 船上460人全部撤离",
-      "content": "【印尼一客轮起火 船上460人全部撤离】财联社10月21日电，印度尼西亚万丹省搜救部门20日晚通报，当天下午在爪哇岛西端附近海域发生的客轮火灾事故中，船上460人已全部安全撤离。当地搜救部门说，起火客轮名为“巴图曼迪”号，载有420名乘客和40名船员。当地时间20日16时15分左右，客轮在驶入万丹省默拉克港的航道时突然起火。",
-      "url": "https://www.cls.cn/telegraph/2.510393e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:10:33",
-      "source": "华尔街见闻-美股",
-      "title": "美国正向中东增派第三艘航空母舰及约1万名军事人员",
-      "content": "美国正向中东增派第三艘航空母舰及约1万名军事人员。两名美国官员称，“西奥多·罗斯福”号航母打击群和第13海军陆战队远征队预计将于11月底前抵达。“罗斯福”号将加入4月部署的“乔治·H·W·布什”号和8月抵达接替“亚伯拉罕·林肯”号的“乔治·华盛顿”号。“罗斯福”号于9月27日周日离开圣迭戈，第13海军陆战队远征队则于次日随“马金岛”号两栖戒备群出航。该航母打击群搭载约6000名水兵，海军陆战队远征队和两栖戒备群共约4200人。",
-      "url": "https://wallstreetcn.com/livenews/3182100",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:09:50",
+      "time": "21:54:38",
       "source": "华尔街见闻-美股",
       "title": "",
-      "content": "美国总统特朗普：副总统万斯非常不错。",
-      "url": "https://wallstreetcn.com/livenews/3182099",
+      "content": "肯·格里芬在全球市场未来大会上表示：美国需要处理好自身的财政问题。",
+      "url": "https://wallstreetcn.com/livenews/3182177",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "18:08:01",
+      "time": "21:52:36",
       "source": "外媒",
-      "title": "在财报公布前，SpaceX投资者就特斯拉合并一事向马斯克施压",
-      "content": "Akash SriramSpaceX NASDAQ:SPCX 的股东们想知道，这家火箭制造商何时会与特斯拉 NASDAQ:TSLA 合并，将埃隆·马斯克 (link) 的两家最大公司合并在一起——这是投资者长期以来一直猜测的一桩合并。“SpaceX何时将与特斯拉合并？”是投资者在周二SpaceX第三季度财报网络直播前向公司管理层提交的问题中，排名第二的提问，获得了26个赞。同样的问题在特斯拉投资者关系网站上获得了128个赞。巴克莱上周表示，这笔交易可能会在特斯拉年度股东大会之前宣布，且SpaceX更有可能成为收购方，尽管两家公司及马斯克均未正式表态支持这笔交易。月球着陆器进展受质疑在问题列表…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661GO:0",
+      "title": "马斯克：特斯拉与SpaceX已成立特别委员会讨论合并",
+      "content": "PANews 10月21日消息，据CNBC报道，马斯克在SpaceX第三季度财报电话会议上表示，SpaceX和特斯拉已分别成立特别委员会，讨论两家公司合并事宜。马斯克称：“我认为这是个好主意，但这实际上取决于两家公司的特别委员会。”目前双方尚未达成任何协议。此前预测市场数据显示，特斯拉与SpaceX在2027年初合并的概率超过50%。",
+      "url": "https://cn.tradingview.com/news/panews:73b43ec51e3f9:0",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "18:07:10",
+      "time": "21:50:35",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，城堡投资创始人格里芬表示，目前人工智能“几乎可以肯定”存在泡沫，泡沫与科技的巨大进步同时存在。",
+      "url": "https://www.cls.cn/telegraph/2.510429e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:49:49",
       "source": "华尔街见闻-全球7x24",
-      "title": "印尼一客轮起火，船上460人全部撤离",
-      "content": "印度尼西亚万丹省搜救部门20日晚通报，当天下午在爪哇岛西端附近海域发生的客轮火灾事故中，船上460人已全部安全撤离。",
-      "url": "https://wallstreetcn.com/livenews/3182098",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:07:06",
-      "source": "外媒",
-      "title": "激进投资者Jana入股卡塞拉废物处理公司，呼吁进行改革",
-      "content": "Svea Herbst-Bayliss激进投资公司Jana Partners已建仓卡塞拉废物系统公司（Casella Waste Systems， NASDAQ:CWST），并希望这家区域性废物处理服务公司能提高其利润率和投资资本回报率，该公司管理合伙人兼投资组合经理周二表示。这家总部位于佛蒙特州拉特兰的公司市值约为56亿美元，其股价今年已下跌约11%，过去五年间基本持平，而竞争对手的表现则更为出色。“提高利润率和运营执行力可以推动资本回报率，重燃其具有吸引力的增长飞轮，并释放卡塞拉被低估的估值，”Jana管理合伙人兼投资组合经理斯科特·奥斯特菲尔德在纽约举行的13D Monitor主动-被…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661GL:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "18:04:00",
-      "source": "财联社电报",
       "title": "",
-      "content": "财联社10月21日电，英国央行货币政策委员格林表示，3%的工资增长与2%的通胀率相符，需进一步降低工资涨幅，才能实现CPI目标。",
-      "url": "https://www.cls.cn/telegraph/2.510391e+06",
+      "content": "澳洲联储官员Hauser：澳大利亚在2026年年初曾面临产能压力。\n\n通胀前景相比8月份的预期恶化了。",
+      "url": "https://wallstreetcn.com/livenews/3182176",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "21:46:12",
+      "source": "外媒",
+      "title": "奥玛特在内华达州的地热项目竞标中独占鳌头",
+      "content": "Nichola Groom特朗普 政府周二在内华达州举行的一场地 热能源租赁权拍卖  中，中标金额近450万美元 ，其中奥玛特（Ormat）、 NYSE:ORA 和Invenergy两家开发商 是出价最高的竞标者。根据政府网站公布的拍卖结果，内政部 土地管理局此次推出的83块地块中，有60块收到了竞标  。这69份租赁权覆盖了该州186,641英亩的土地。此次拍卖是 2026年政府举办的六场地热拍卖中的第四场 ，也是地热资源丰富的内华达州今年举办的首场拍卖。唐纳德·特朗普总统领导的政府一直大力推广  地热  能源，将其视为一种前景广阔的新型“全天候”电力来源，有助于满足因人工智能扩张而激增的…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661TU:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:36:37",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "纳斯达克生物科技指数收涨3.23%，成分股Larimar Therapeutics Inc.涨15.09%领跑，Black Diamond、Contineum Therapeutics、First Tracks Biotherapeutics、Gossamer Bio、Caribou Biosciences、Bioage Labs、Lyell Immunopharma涨14.36%-10.45%紧随其后，天境生物ADR涨9.62%表现靠前。\n\nAbcellera Biologics则收跌1.84%，LENZ Therapeutics、Jyong Biotech至多跌3.63%，Annexon跌4.49%，Codexis跌6.82%，EyePoint Pharmaceuticals跌7.25%，AnaptysBio Inc.（ANAB）跌7.74%表现最差。",
+      "url": "https://wallstreetcn.com/livenews/3182175",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "21:32:51",
+      "source": "外媒",
+      "title": "美国股市：道指上涨1%，医疗保健股支撑大盘而科技股成拖累",
+      "content": "美国股市周二收盘道琼斯工业指数上涨1%，标普500指数小涨，纳斯达克指数基本持平。医疗保健股上涨支撑大盘，科技股下跌则构成主要拖累。医疗保健板块 SP:S5HLTH领涨标普500指数11个主要板块，并创下纪录新高。礼来公司 NYSE:LLY是对标普500指数点数贡献最大的个股，联合健康集团 NYSE:UNH、默克公司 NYSE:MRK、强生公司 NYSE:JNJ和安进公司 NASDAQ:AMGN则推动道琼斯工业指数上涨。超大盘股下跌拖累通信服务板块 SP:S5TELS。能源板块 SP:SPN表现落后，油价在触及五个月高位后回落。原油交易商一方面关注伊朗总统与担任美伊调解人的巴基斯坦陆军参谋长…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S4661DD:0",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "17:57:10",
+      "time": "21:32:27",
+      "source": "外媒",
+      "title": "埃隆·马斯克表示，特斯拉与SpaceX合并是个好主意",
+      "content": "埃隆·马斯克周二表示，将SpaceX（ NASDAQ:SPCX）与特斯拉（ NASDAQ:TSLA）合并是个好主意，并透露两家公司已成立特别委员会，以评估这位亿万富翁商业帝国两大支柱潜在合并事宜。(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661T9:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:31:36",
       "source": "财联社电报",
-      "title": "OpenAI收购生物医药研发平台Orchestra Bio‌",
-      "content": "【OpenAI收购生物医药研发平台Orchestra Bio‌】财联社10月21日电，OpenAI已完成对生物医药研发协作平台Orchestra Bio的收购，将把其与自身现有的生命科学AI研发平台Rosalind进行深度整合。",
-      "url": "https://www.cls.cn/telegraph/2.51039e+06",
+      "title": "",
+      "content": "财联社10月21日电，马斯克，SpaceX将短期出租计算能力。",
+      "url": "https://www.cls.cn/telegraph/2.510427e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:56:44",
+      "time": "21:24:43",
+      "source": "财联社电报",
+      "title": "马斯克：SpaceX与特斯拉已成立委员会以讨论合并事宜",
+      "content": "【马斯克：SpaceX与特斯拉已成立委员会以讨论合并事宜】财联社10月21日电，马斯克称特斯拉与SpaceX合并并非板上钉钉，股东得支持，特斯拉和Spacex合并有很多优点。马斯克表示，SpaceX与特斯拉已成立委员会以讨论合并事宜。",
+      "url": "https://www.cls.cn/telegraph/2.510426e+06",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "21:24:30",
       "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "OpenAI已经收购Orchestra Bio。\n\n将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
-      "url": "https://wallstreetcn.com/livenews/3182097",
+      "title": "马斯克：SpaceX与特斯拉成立了委员会来讨论合并事宜",
+      "content": "马斯克：SpaceX与特斯拉都有特别的委员会来讨论合并事宜。\n\n我是利益冲突方，无法在委员会里面讨论。\n\nSpaceX与特斯拉合并并非板上钉钉的事，还得股东们支持。\n\n合并SpaceX和特斯拉有太多的好处。",
+      "url": "https://wallstreetcn.com/livenews/3182174",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:53:59",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "意大利总理梅洛尼宣布向米兰部署500名军人，支援警方维持秩序至年底。",
-      "url": "https://wallstreetcn.com/livenews/3182096",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:52:56",
+      "time": "21:23:45",
       "source": "外媒",
-      "title": "Axon Enterprise、Williams-Sonoma、Xcel Energy",
-      "content": "周二，华尔街证券分析师下调了多家在美国上市公司的评级和目标股价，其中包括Axon Enterprise、Williams-Sonoma和Xcel Energy。重点摘要以下是路透周二报道的针对美国公司的研究行动摘要。股票条目按字母顺序排列。(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661GB:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:52:40",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "伊朗总统佩泽希齐扬对巴基斯坦调解人表示：任何谈判都必须以美国首先解除所有施压、威胁和制裁为前提。（Tasnim）",
-      "url": "https://wallstreetcn.com/livenews/3182095",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:51:08",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "台积电ADR涨1.6%，持稳于日高428.21美元附近。\n\n据媒体报道，10月20日，该公司四名工人在中国台湾高雄楠梓园区台积电F22厂区P4新建工程工地的施工现场焊接钢梁时从高处坠落。\n\n其中三人死亡，第四名工人正在医院接受治疗。\n\n台积电表示，现场相关作业已暂停，公司安全团队正配合当局调查；台积电也在协助分包商处理后续事宜。",
-      "url": "https://wallstreetcn.com/livenews/3182094",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:49:07",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "美国国务卿鲁比奥：我不认为，也从未觉得，美国国内的反印度情绪是普遍或根深蒂固的。",
-      "url": "https://wallstreetcn.com/livenews/3182093",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:46:41",
-      "source": "华尔街见闻-全球7x24",
-      "title": "尼日利亚确认出现首例埃博拉确诊病例",
-      "content": "10月20日，尼日利亚联邦政府确认，在联邦首都区阿布贾发现一例埃博拉病毒确诊病例，该国已全面启动紧急公共卫生响应机制。",
-      "url": "https://wallstreetcn.com/livenews/3182092",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:45:46",
-      "source": "外媒",
-      "title": "希尔顿、MSCI、Tradeweb、礼来",
-      "content": "周二，受医疗保健股飙升和油价走软提振市场风险偏好，华尔街主要股指走高，延续了上周由科技股领跌的抛售潮后的反弹势头。美国东部时间下午1:30，道琼斯工业平均指数 DJ:DJI 上涨1.02%，报52,496.36点。标普500指数 CBOE:SPX 上涨0.43%，报7,723.58点；纳斯达克综合指数 TVC:IXIC 上涨0.25%，报26,497.12点。标普500指数 SP:SPX 涨幅前三的个股：** 益博睿公司（Equifax Inc） NYSE:EFX，上涨10.6%** 孩之宝公司 NASDAQ:HAS，上涨9.5%** 3M公司 NYSE:MMM，上涨6.0%标普500指数…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661G3:0",
+      "title": "马斯克：SpaceX预计2027年底ARR达5000亿至1万亿美元",
+      "content": "PANews 10月21日消息，据金十数据报道，马斯克在SpaceX（SPCX）第三季度财报电话会议上表示，SpaceX预计到2027年底年度经常性收入（ARR）将达到5000亿至1万亿美元。马斯克还称，对2027年实现10吉瓦算力上线“相当有信心”，超过20吉瓦的可能性“并非为零”；SpaceX将在数周内向企业大规模部署GrokBot；星舰第15次试飞预计下月进行，将首次尝试同时回收助推器和飞船。此前SpaceX公布第三季度营收145.75亿美元，同比增长161.39%。",
+      "url": "https://cn.tradingview.com/news/panews:966df29eee3f9:0",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "17:43:54",
+      "time": "21:23:30",
       "source": "财联社电报",
-      "title": "巴拿马南部太平洋海域发生5.4级地震",
-      "content": "【巴拿马南部太平洋海域发生5.4级地震】财联社10月21日电，据哥伦比亚地质调查局发布的通报，当地时间20日中午12时05分，巴拿马南部太平洋海域发生5.4级地震，震中位于北纬6.32度、西经82.57度，震源深度小于30公里。",
-      "url": "https://www.cls.cn/telegraph/2.510387e+06",
+      "title": "沙特主导联军称摧毁胡塞武装一处导弹发射平台",
+      "content": "【沙特主导联军称摧毁胡塞武装一处导弹发射平台】财联社10月21日电，沙特阿拉伯主导的多国联军发言人图尔基·马利基20日晚在社交媒体上说，联军已摧毁也门胡塞武装向沙特首都利雅得发射弹道导弹所使用的一处平台。",
+      "url": "https://www.cls.cn/telegraph/2.510425e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:40:31",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "欧盟委员会主席冯德莱恩：利比亚-土耳其的地中海协议侵犯第三国主权权利，不符合海洋法，是无效的。\n\n我们重申对希腊和塞浦路斯的声援。\n\n重申欧盟反对任何外部干涉利比亚的众所周知立场。",
-      "url": "https://wallstreetcn.com/livenews/3182091",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:40:16",
-      "source": "华尔街见闻-全球7x24",
-      "title": "利比亚东部议会批准与土耳其的海事协议，希腊表示反对",
-      "content": "利比亚东部议会周二批准了一项与土耳其的海上边界协议，随即招致希腊的强烈谴责，希腊称此举违反国际法。该协议是围绕东地中海海上边界和能源勘探权长期争议的一部分。该协议最初由位于西部、获得国际承认的的黎波里政府于2019年达成，但由军事指挥官哈利法·哈夫塔尔领导的东部对立政权多年来一直未予批准。",
-      "url": "https://wallstreetcn.com/livenews/3182090",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:38:54",
-      "source": "华尔街见闻-美股",
-      "title": "物流公司：莱茵河改道货物激增，德国铁路难以承接",
-      "content": "铁路物流公司VTG GmbH表示，德国铁路网络无法承接从莱茵河改道的全部货物；莱茵河目前水位偏低，而铁路维护又进一步压缩了运力。铁路虽然承接了“相当一部分”被转移的运量，但“由于德国铁路施工仍在进行，铁路目前还无法一对一替代莱茵河航运”。一列完整的货运列车可运送1,200至1,500吨货物，低于标准驳船的运量。",
-      "url": "https://wallstreetcn.com/livenews/3182089",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:35:48",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "美国国防部长赫格塞思：谁控制了海底和地月空间，谁就将控制下一场战斗。",
-      "url": "https://wallstreetcn.com/livenews/3182088",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:33:36",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。\n\n不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
-      "url": "https://wallstreetcn.com/livenews/3182087",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:31:57",
+      "time": "21:22:05",
       "source": "财联社电报",
-      "title": "城堡证券考虑扩大固定收益业务版图 称目前存在一些空白",
-      "content": "【城堡证券考虑扩大固定收益业务版图 称目前存在一些空白】财联社10月21日电，城堡证券考虑扩大固定收益业务，以填补总裁Jim Esposito认为公司目前存在的一些业务空白。Esposito周二接受采访时表示：“我们在固定收益领域其实才刚刚起步，未来几年将考虑扩大和发展固定收益业务。我们并不着急，但目前的产品服务确实存在一些空白。”",
-      "url": "https://www.cls.cn/telegraph/2.510386e+06",
+      "title": "",
+      "content": "财联社10月21日电，马斯克称SpaceX预计明年上半年星舰实现每周发射一次；预计明年下半年星舰每周发射至少两次。",
+      "url": "https://www.cls.cn/telegraph/2.510424e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:31:20",
+      "time": "21:21:50",
+      "source": "外媒",
+      "title": "美国上周原油和成品油库存下降--消息人士援引API数据",
+      "content": "市场消息人士周二援引美国石油协会(API)的数据称，上周美国原油、汽油和馏分油库存均下降，其中原油库存降幅远超分析师预期。不愿具名的消息人士称，原油库存减少490万桶。汽油库存减少近200万桶，馏分油库存减少约260万桶。透调查的分析师预计，原油库存减少80万桶，汽油库存减少40万桶，馏分油库存减少120万桶。(完)",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S4661D6:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:21:22",
+      "source": "外媒",
+      "title": "受燃油成本飙升影响，阿拉斯加航空预计第四季度亏损将超出预期",
+      "content": "阿拉斯加航空集团（ NYSE:ALK）周二预测，第四季度亏损将超出预期，尽管出行需求强劲且票价上涨，但飙升的燃油成本仍在持续挤压其利润。据伦敦证券交易所集团（LSEG）汇编的数据，该航空公司预计本季度经调整后每股亏损为2至2.50美元，而分析师平均预计每股亏损为1.04美元。(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661SW:0",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "21:19:46",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "标普500指数收涨21.84点，涨幅0.28%，报7712.57点，美股盘初显著上涨，随后平缓地逐步回吐涨幅。标普500相等权重指数跌0.34%，报8644.83点。\n\n道琼斯工业平均指数收涨529.85点，涨幅1.02%，报52495.88点。\n\n纳斯达克综合指数（纳指）收跌6.069点，跌幅0.02%，报26424.817点。\n\n纳斯达克100指数收跌39.061点，跌幅0.13%，报29490.283点。\n\n纳斯达克科技市值加权指数收跌0.60%，报2976.9358点，美股早盘一度转涨。\n\n费城半导体指数收跌32.531点，跌幅0.29%，报11283.812点。\n\n费城证交所KBW银行指数收涨1.45%，报169.58点。\n\n道琼斯KBW地区银行指数收涨1.97%，报136.88点，绝大部分交易时间高位窄幅震荡。\n\n罗素2000指数收涨1.65%，报2773.42点。\n\n纳斯达克生物科技指数收涨3.23%，报2773.42点。\n\n标普中盘股400指数收涨0.98%，纳斯达克美国中等市值指数涨1.29%。\n\n恐慌指数VIX收跌6.13%，报17.31，北京时间20:35刷新日高至19.13，随后持续震荡下行。",
+      "url": "https://wallstreetcn.com/livenews/3182173",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:19:22",
       "source": "华尔街见闻-美股",
-      "title": "卡塔尔称美伊核问题谈判仍在继续",
-      "content": "10月20日，卡塔尔首相顾问兼外交部发言人马吉德·安萨里在多哈举行的第八届全球安全论坛上表示，尽管中东地区紧张局势持续升级，美国与伊朗围绕伊朗核问题的谈判仍在继续，双方均保持外交接触。（央视）",
-      "url": "https://wallstreetcn.com/livenews/3182086",
+      "title": "",
+      "content": "肯·格里芬在全球市场未来大会上表示：目前人工智能（AI）“几乎可以肯定”存在泡沫，泡沫与科技的巨大进步同时存在。\n\nAI模型进步“巨大”。\n\n城堡证券大部分超额收益来自研究员。\n\n投资者在布局人工智能时正变得更加审慎。\n\n部分企业难以从人工智能业务中兑现价值。\n\n美国总统特朗普对盟友发起的关税战是一场灾难，特朗普在中期选举前的成绩喜忧参半。\n\n特朗普在解释伊朗战争上做得非常糟糕。",
+      "url": "https://wallstreetcn.com/livenews/3182172",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:30:51",
-      "source": "外媒",
-      "title": "Meta全球事务负责人乔尔·卡普兰在公司任职15年后即将离职",
-      "content": "Meta Platforms旗下 NASDAQ:META 的全球事务首席官乔尔·卡普兰（Joel Kaplan）将在为公司效力15年后于明年离职，一位发言人周二向路透透露。该发言人表示，总裁兼副主席麦考密克（Dina Powell McCormick）将把对外事务纳入其职责范围。(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661FQ:0",
+      "time": "21:18:25",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "南方铜业公司三季度销售47亿美元，分析师预期44.6亿美元。\n\n三季度调整后EBITDA为30.4亿美元，分析师预期29.1亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3182171",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:29:44",
-      "source": "外媒",
-      "title": "Kamino将为CCIP跨链资产提供更高借贷上限与LTV",
-      "content": "PANews 10月21日消息，Solana借贷协议Kamino在X平台发帖称，经过广泛的安全审查，其将Chainlink CCIP确立为跨链抵押品的风险评估标准，由CCIP保障的资产可在Kamino各市场获得更高的借贷上限和LTV（贷款价值比）。Kamino表示，随着其扩大对机构级代币化抵押品的支持，跨链安全已成为市场设计的核心环节。Chainlink亦发帖确认了这一安排。",
-      "url": "https://cn.tradingview.com/news/panews:b347f8f46e3f9:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:28:32",
+      "time": "21:17:34",
       "source": "华尔街见闻-全球7x24",
       "title": "",
-      "content": "英国首相伯纳姆计划通过立法削减福利支出法案。\n\n她打算最早明年4月份提出立法（草案）。（英国每日电讯报）",
-      "url": "https://wallstreetcn.com/livenews/3182085",
+      "content": "世卫组织：尼日利亚确诊一例输入型埃博拉Bundibugyo毒株的感染者。",
+      "url": "https://wallstreetcn.com/livenews/3182170",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:27:43",
-      "source": "外媒",
-      "title": "Meta向巴西法院表示，其对卢拉和博索纳罗的竞选活动一视同仁",
-      "content": "拥有Facebook、Instagram和WhatsApp的Meta Platforms公司（ NASDAQ:META）周二向巴西最高选举法院表示，该公司已采取措施，确保在其平台上对总统卢拉和参议员博索纳罗的总统竞选活动给予平等对待。此前，一名选举法院法官要求该公司在周日总统选举第二轮投票前，在24小时内证明已采取措施确保内容的平等分发。(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661FO:0",
+      "time": "21:16:38",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，富时A50期指连续夜盘收涨0.27%，报13315点。",
+      "url": "https://www.cls.cn/telegraph/2.510423e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:27:40",
-      "source": "华尔街见闻-美股",
-      "title": "汇丰CEO警告：AI热潮下，并非所有数据中心都是好赌注",
-      "content": "汇丰控股CEO埃尔赫德里（Georges Elhedery）表示，人工智能（AI）是“重塑和重新构想我们所有业务与活动的关键推动力”。“它将因生产力的大幅提升而把更多主动权交还给我们的员工，因此它将带来变革性影响，而我们当然正全力拥抱这一进程，”AI将助力“重塑这家银行”。但在投资支撑该技术的底层基础设施时，建议保持甄别，而非“all-in”式押注。“必须有所选择，你需要审视租户协议的质量，审视这些合同的定价水平。并非所有项目都具备足够优质的合约资质，部分项目可能更具挑战。”（CNBC）",
-      "url": "https://wallstreetcn.com/livenews/3182084",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:26:50",
-      "source": "外媒",
-      "title": "美国犹他州起诉Kalshi及两家Susquehanna关联交易公司",
-      "content": "PANews 10月21日消息，据《盐湖城论坛报》及Crypto Briefing报道，美国犹他州总检察长Derek Brown在该州第三地区法院起诉预测市场平台Kalshi及两家Susquehanna关联交易公司，指控其在联邦法院确认犹他州有权执行赌博禁令后，仍继续向当地居民提供体育及事件合约，做市商则协助维持相关交易。诉讼寻求禁止居民访问相关合约、赔偿居民损失、追缴违法所得，并请求法院认定相关平台构成公共妨害。犹他州估计，Kalshi从该州账户收取的手续费在3060万至6120万美元之间，注册在犹他州居民名下的Kalshi账户超3.2万个。",
-      "url": "https://cn.tradingview.com/news/panews:78c855a0ce3f9:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:25:56",
-      "source": "华尔街见闻-美股",
-      "title": "伊朗官员：所有浓缩核材料都将留在伊朗",
-      "content": "当地时间20日，伊朗最高国家安全委员会秘书雷扎伊在会见巴基斯坦陆军总参谋长穆尼尔时强调，所有浓缩核材料都将留在伊朗，这些材料是伊朗人民的宝贵财富，将在国内使用。雷扎伊称，伊朗全体人民和官员一致认为，在美方建立信任之前，不会进行任何谈判。而建立信任的第一步，就是满足伊朗提出的条件。穆尼尔则强调了伊朗和巴基斯坦边境重新开放的消息。他表示，伊朗和巴基斯坦边境问题已经解决，边境已于当天上午重新开放。（央视新闻）",
-      "url": "https://wallstreetcn.com/livenews/3182083",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:25:50",
-      "source": "外媒",
-      "title": "LayerZero：Zero主网及lzATLAS将于11月30日上线",
-      "content": "PANews 10月21日消息，LayerZero在X平台发帖称，其Layer1区块链Zero主网及交易引擎lzATLAS将于11月30日上线。lzATLAS是首个在Zero上推出的应用，将从Open ATLAS起步，上线时支持十余个交易场所，年内还将接入更多。LayerZero表示，主网初期聚焦开放市场，同时已有机构在美股等大型市场场景中测试lzATLAS，各交易场所正在整合交易基础设施，并测试订单执行与结算。",
-      "url": "https://cn.tradingview.com/news/panews:a1226fb5de3f9:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:24:53",
-      "source": "外媒",
-      "title": "Starboard的史密斯披露其持有的Solstice股份，并敦促该公司进行改进",
-      "content": "Svea Herbst-Bayliss激进投资者Starboard Value周二宣布新入股霍尼韦尔分拆公司Solstice Advanced Materials（ NASDAQ:SOLS），认为该公司被低估，且需要有人督促管理层 以提升股价表现。Starboard管理合伙人兼首席执行官史密斯（Jeffrey Smith）在纽约举行的第13D Monitor年度主动-被动投资者峰会上表示，Solstice的股价“便宜得离谱”。史密斯称，Solstice“业务出色但被低估”，并将这一折价归因于市场对管理层能否充分发挥其核心业务线潜力的信心不足。史密斯表示，为提升业绩，管理层应专注于核心制冷剂和…",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661FB:0",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:19:10",
+      "time": "21:16:28",
       "source": "华尔街见闻-美股",
       "title": "",
-      "content": "据知情人士透露，EQT AB（殷拓）洽谈收购检测公司Qiagen NV。（彭博）",
-      "url": "https://wallstreetcn.com/livenews/3182082",
+      "content": "马斯克称，阿斯麦等针对Terafab加快设备交付速度。\n\n阿斯麦ADR美股盘后涨幅迅速扩大至2.7%。",
+      "url": "https://wallstreetcn.com/livenews/3182169",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "21:16:10",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，SpaceX美股盘后涨5.5%，公司正举行财报电话会。",
+      "url": "https://www.cls.cn/telegraph/2.510422e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:18:51",
+      "time": "21:15:52",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "富时A50期指连续夜盘收涨0.27%，报13315点。",
+      "url": "https://wallstreetcn.com/livenews/3182168",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:15:27",
       "source": "外媒",
-      "title": "德国阿迪达斯在创下季度纪录后上调全年盈利预期",
-      "content": "德国运动服饰制造商阿迪达斯 XETR:ADS 周二上调了全年利润预期，并报告称第三季度营业利润增长37%，这主要得益于美国关税退税和正价销售的提振。(1美元 = 0.8902欧元)(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
-      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661F5:0",
+      "title": "受人工智能服务器热潮推动，超微科技季度营收激增",
+      "content": "超微计算机公司（ NASDAQ:SMCI）周二表示，由于这家服务器制造商受益于人工智能数据中心持续强劲的需求，预计季度营收和利润率将远 超华尔街预期，其股价在盘后交易中上涨了11.3%。竞争对手戴尔（Dell） NYSE:DELL 和惠普企业（HPE） NYSE:HPE 股价涨幅介于 3.5%至4.9%之间。人工智能芯片巨头英伟达（Nvidia） NASDAQ:NVDA 股价上涨1.5%。科技巨头竞相扩建数据中心的热潮，使Super Micro等公司成为人工智能热潮的最大受益者之一。包括微软、谷歌和亚马逊在内的四大云计算公司，预计今年将在人工智能基础设施上投入超过7,000亿美元。这一趋势在…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661SK:0",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "17:16:17",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社10月21日电，美联储周三隔夜逆回购协议（RRP）使用规模为2.27亿美元。",
-      "url": "https://www.cls.cn/telegraph/2.510382e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:16:01",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "周二（10月20日），美联储隔夜逆回购协议（RRP）使用规模为2.27亿美元（交易对手3家），上个交易日报3.3亿美元。",
-      "url": "https://wallstreetcn.com/livenews/3182081",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:13:11",
-      "source": "财联社电报",
-      "title": "马克龙访问阿联酋 讨论双边合作及地区局势",
-      "content": "【马克龙访问阿联酋 讨论双边合作及地区局势】财联社10月21日电，据阿联酋方面20日消息，阿联酋总统穆罕默德·本·扎耶德·阿勒纳哈扬19日在阿布扎比与到访的法国总统马克龙举行会谈，就深化两国战略关系、拓展经贸与科技合作以及中东地区局势等问题交换意见。据悉，两国领导人讨论了地区和国际问题，重点涉及中东局势最新发展，以及应对地区局势对海上安全和全球能源供应影响的相关努力。双方强调将进一步加强协调，共同推动地区安全、稳定与和平。两国领导人还重点讨论了扩大经济、投资、能源、先进技术和人工智能等领域合作的途径，重申将推动能源、先进技术和人工智能等领域共同项目取得进展。 (央视新闻)",
-      "url": "https://www.cls.cn/telegraph/2.510381e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:10:49",
-      "source": "华尔街见闻-全球7x24",
-      "title": "法国巴黎部分街区再次实施宵禁",
-      "content": "10月20日，法国巴黎警察总局宣布，巴黎部分街区将于20日23时起再次实施宵禁，至21日早上6时结束。（央视）",
-      "url": "https://wallstreetcn.com/livenews/3182080",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:10:34",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "乌克兰总统泽连斯基：乌克兰比任何人都更希望和平，是俄罗斯发动了这场冲突。\n\n今早与美国国务卿鲁比奥进行了良好通话。\n\n希望在未来48小时内与鲁比奥通话。\n\n如果俄罗斯也停止攻击，我们准备不对俄能源基础设施的敏感部分实施打击。",
-      "url": "https://wallstreetcn.com/livenews/3182079",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:08:26",
-      "source": "财联社电报",
-      "title": "胡塞武装称沙特袭击也门多处目标 致8人死亡",
-      "content": "【胡塞武装称沙特袭击也门多处目标 致8人死亡】财联社10月21日电，据也门胡塞武装方面消息，当地时间20日，沙特战机对也门萨达省和塔伊兹省目标发动空袭，造成通信设施受损，塔伊兹省8人遇难。消息称，在萨达省，沙特战机对萨基因县的通信网络发动两次空袭。在塔伊兹省，沙特战机对祖巴卜县卡德哈海岸附近的两艘渔船发动两次空袭，造成8名渔民遇难。",
-      "url": "https://www.cls.cn/telegraph/2.510379e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:04:07",
+      "time": "21:13:39",
       "source": "华尔街见闻-A股",
       "title": "",
-      "content": "国际铜夜盘收涨0.53%，沪铜收涨0.53%，沪铝收跌0.11%，沪锌收涨0.37%，沪铅收跌0.15%，沪镍收涨1.47%，沪锡收涨1.70%。\n\n氧化铝夜盘收涨0.38%，铝合金收跌1.26%。\n\n不锈钢夜盘收涨0.07%。",
-      "url": "https://wallstreetcn.com/livenews/3182078",
+      "content": "SpaceX美股盘后涨5.5%，该公司正举行分析师电话会议。",
+      "url": "https://wallstreetcn.com/livenews/3182165",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:03:21",
-      "source": "华尔街见闻-全球7x24",
-      "title": "阿卜耶伊遭无人机袭击事件死亡人数升至226人",
-      "content": "当地时间10月20日下午，阿卜耶伊地区代理信息部长兼政府发言人约哈纳·恩戈尔称，19日无人机袭击当地阿米耶特市场造成的死亡人数上升至226人。（央视）",
-      "url": "https://wallstreetcn.com/livenews/3182077",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:01:50",
-      "source": "华尔街见闻-全球7x24",
+      "time": "21:11:11",
+      "source": "华尔街见闻-A股",
       "title": "",
-      "content": "英国央行货币政策委员会（MPC）成员Greene：薪资涨幅放缓的势头已经陷入停滞。\n\n需要更多的薪资通胀放缓，从而实现CPI目标。\n\n劳动力市场并不像人们想象的那样疲软。\n\n薪资增长3%与通胀率为2%相一致。\n\n当通胀高于3%时，人们会注意到。\n\n将继续面临大量供应冲击。",
-      "url": "https://wallstreetcn.com/livenews/3182076",
+      "content": "周二（10月20日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.6748元，逼近2022年6月15日最终报价6.6687元、当年6月3日最终报价6.6557元、当年5月4日最终报价6.6223元、以及当年4月27日最终报价6.5868元，较周一纽约尾盘涨74点，日内整体交投于6.6832-6.6734元区间。",
+      "url": "https://wallstreetcn.com/livenews/3182164",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "17:00:48",
-      "source": "华尔街见闻-全球7x24",
-      "title": "",
-      "content": "IFOP的民调结果显示：法国右翼政客勒庞有望在总统大选第一轮投票获得34%-38%的支持率。",
-      "url": "https://wallstreetcn.com/livenews/3182075",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:00:37",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社10月21日电，奈飞计划于2027年将广告业务扩展至15个新国家。",
-      "url": "https://www.cls.cn/telegraph/2.510377e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "17:00:07",
+      "time": "21:08:54",
       "source": "华尔街见闻-美股",
       "title": "",
-      "content": "英国网站显示，Revolut服务在中断后开始恢复上线。",
-      "url": "https://wallstreetcn.com/livenews/3182074",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:59:17",
-      "source": "华尔街见闻-美股",
-      "title": "德国10年期国债收益率跌超5个基点",
-      "content": "周二（10月20日）欧市尾盘，德国10年期国债收益率跌5.5个基点，报3.4%，日内交投于3.444%-3.383%区间，整体持续扩大跌幅。\n\n两年期德债收益率跌4.3个基点，报3.803%，日内交投于3.123%-3.065%区间，整体低开低走；30年期德债收益率跌6.2个基点，报3.761%。\n\n2/10年期德债收益率利差跌1.136个基点，报+31.474个基点。",
-      "url": "https://wallstreetcn.com/livenews/3182073",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "16:56:38",
-      "source": "华尔街见闻-美股",
-      "title": "伊朗议会议长会见巴基斯坦陆军总参谋长，谈及伊美局势",
-      "content": "当地时间20日，伊朗议会议长卡利巴夫会见巴基斯坦陆军总参谋长穆尼尔。卡利巴夫表示，美国长期以来对伊朗的负面行动，使伊朗对美国极度不信任。如今，特朗普政府违反了《伊斯兰堡谅解备忘录》，一再的威胁更加剧了这种不信任。美国若不履行伊朗提出的七项条件，便无法赢得伊朗的信任。军事威胁和行动不能影响伊朗的战略决策。正是美国误判形势，发动对伊朗的战争，才使其陷入泥潭，现在他们必须采取必要措施脱身。（央视）",
-      "url": "https://wallstreetcn.com/livenews/3182072",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:53:57",
-      "source": "财联社电报",
-      "title": "LME金属收盘涨跌不一",
-      "content": "【LME金属收盘涨跌不一】财联社10月21日电，LME金属收盘涨跌不一，LME期铜收涨82美元，报14420美元/吨。LME期铝收跌14美元，报3002美元/吨。LME期锌收涨11美元，报3725美元/吨。LME期铅收跌2美元，报1894美元/吨。LME期镍收涨133美元，报15662美元/吨。LME期锡收涨495美元，报1334美元/吨。",
-      "url": "https://www.cls.cn/telegraph/2.510376e+06",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "16:52:39",
-      "source": "华尔街见闻-美股",
-      "title": "",
-      "content": "LME期铜收涨82美元，报14420美元/吨。\n\nLME期铝收跌14美元，报3002美元/吨。\n\nLME期锌收涨11美元，报3725美元/吨。\n\nLME期铅收跌2美元，报1894美元/吨。\n\nLME期镍收涨133美元，报15662美元/吨。\n\nLME期锡收涨495美元，报1334美元/吨。\n\nLME期钴收平，报34620美元/吨。",
-      "url": "https://wallstreetcn.com/livenews/3182071",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "16:46:51",
-      "source": "财联社电报",
-      "title": "日执政联盟拟就年底修订“安保三文件”举行磋商",
-      "content": "【日执政联盟拟就年底修订“安保三文件”举行磋商】财联社10月21日电，据日本方面20日消息，多名相关人士称，日本执政党自民党及其执政伙伴日本维新会拟于11月开始围绕今年年底修订“安保三文件”进行实务层面磋商。修改“无核三原则”以及引入核动力潜艇等问题或成为焦点。据称，自民党要求尽快研究拥有搭载远程导弹的潜艇是否可行，其中包括“下一代动力”潜艇。日本维新会则更进一步，认为除核动力潜艇外无其他选择，主张尽快引进。日本维新会还主张对“无核三原则”中“不运进核武器”的原则“进行符合现实情况的研究”。两党将协调意见。 (央视新闻)",
-      "url": "https://www.cls.cn/telegraph/2.510375e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:46:09",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社10月21日电，瑞士海关数据显示，瑞士9月黄金出口量较8月增长6%至165.2公吨，为2025年2月以来最高水平。",
-      "url": "https://www.cls.cn/telegraph/2.510374e+06",
+      "content": "SpaceX CFO：云服务的需求尤其强劲。",
+      "url": "https://wallstreetcn.com/livenews/3182163",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "16:39:53",
+      "time": "21:08:03",
+      "source": "华尔街见闻-全球7x24",
+      "title": "利比亚国民代表大会废除其与土耳其断交决议",
+      "content": "利比亚国民代表大会20日在社交媒体宣布，该机构当天经投票表决，废除其此前“与土耳其断绝政治关系的决议”。\n\n利国民代表大会同时表示，该机构当天还投票批准了2019年利比亚民族团结政府与土耳其签署的有关地中海“海事管辖权”的谅解备忘录。",
+      "url": "https://wallstreetcn.com/livenews/3182162",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:06:47",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "伊朗外长阿拉格齐谈及美方想要增加的附加条件：我们不会在你们设定的框架内谈判。",
+      "url": "https://wallstreetcn.com/livenews/3182161",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:05:53",
       "source": "财联社电报",
       "title": "",
-      "content": "财联社10月21日电，传奇影业重启对狮门影业的收购谈判，并已提交收购要约。",
-      "url": "https://www.cls.cn/telegraph/2.510373e+06",
+      "content": "财联社10月21日电，COMEX黄金期货收跌0.42%，报4142.5美元/盎司；COMEX白银期货涨1.51%，报58.14美元/盎司。",
+      "url": "https://www.cls.cn/telegraph/2.510421e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "16:33:12",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社10月21日电，消息人士称，一项出售交易可能使IntraFi的估值超过100亿美元，黑石集团、华平投资联手摩根士丹利推进IntraFi公司出售事宜。",
-      "url": "https://www.cls.cn/telegraph/2.510371e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:26:30",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社10月21日电，谷歌推出面向小企业主的全新Gemini工具。",
-      "url": "https://www.cls.cn/telegraph/2.51037e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:24:17",
-      "source": "财联社电报",
-      "title": "",
-      "content": "财联社10月21日电，高盛称波斯湾地区成品油出口量预计仅为2025年平均水平的40%。",
-      "url": "https://www.cls.cn/telegraph/2.510369e+06",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "16:17:11",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "波音公司股价跌幅收窄，美联社报告称，美国认证737 MAX 10飞机。",
-      "url": "https://wallstreetcn.com/livenews/3182054",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "15:00:48",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "内盘期货夜市多数收跌。\n\n燃油跌5.48%，低硫燃油跌3.89%，LPG跌3.35%，对二甲苯、甲醇、PTA至少跌2.73%，铁矿石跌0.29%。\n\n焦煤夜盘收涨0.07%，热卷涨0.28%，螺纹钢涨0.39%，棕榈油张0.45%，焦炭涨0.52%。",
-      "url": "https://wallstreetcn.com/livenews/3182017",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "14:18:00",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "内盘燃料夜盘跌幅扩大至4.1%，甲醇跌1%。",
-      "url": "https://wallstreetcn.com/livenews/3181986",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "14:03:03",
-      "source": "华尔街见闻-A股",
-      "title": "报道：谷歌在伦敦的云服务中断，多家银行与金融公司受影响，谷歌致歉",
-      "content": "综合英国《每日电讯报》、路透社等媒体20日报道，谷歌公司在英国伦敦的云服务中断，多家银行、金融公司与公共服务提供商的网站和移动应用程序受到影响。《每日电讯报》还报道称，谷歌在一份声明中表示，该公司在“西欧二区”的多项服务出现问题，团队正在处理。“我们向所有受此次服务中断影响的人员道歉。”报道还称，谷歌晚些时候表示，此次服务中断由“电力问题”造成。另据英国天空新闻网报道，英国首相的发言人称，首相府已注意到上述消息，政府正与谷歌公司联系，以使服务尽快恢复。（环球网）",
-      "url": "https://wallstreetcn.com/livenews/3181980",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "13:48:23",
-      "source": "华尔街见闻-A股",
-      "title": "报道：高通将以绩效为导向在全球范围内裁员",
-      "content": "高通公司（QCOM）首席执行官阿蒙（Cristiano Amon）周一在一份备忘录中向员工表示，公司将在年度员工考核后进行“以绩效为导向的裁员”，相关通知将于11月开始发出。\n\n阿蒙表示，此次裁员旨在打造“更强大的绩效文化”，并解决公司“持续未达预期”的问题。 在裁员过程中将综合考虑业务优先级、组织需求、技能和专业知识等因素。“随着业务的扩展，我们所需的能力和技能也在不断增加，”他写道。“我们必须让合适的人担任合适的职位，这样他们才能发挥最佳水平，公司才能继续取得成功。”",
-      "url": "https://wallstreetcn.com/livenews/3181969",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "13:34:24",
-      "source": "华尔街见闻-A股",
-      "title": "商务部新闻发言人就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知答记者问",
-      "content": "问：10月19日，美国国土安全部宣布禁止美联邦政府民事行政机构采购中国人工智能企业深度求索及其关联企业开发的产品和服务，并要求从相关机构的信息系统中移除相关产品和服务。请问商务部对此有何评论？\n答：我们注意到有关情况。中方对此强烈不满、坚决反对。\n中国政府坚持发展和安全并重，秉持“以人为本、智能向善”理念，确保人工智能安全、可控、可靠，推动人工智能在合规、可信、向善轨道上发展，出台《网络安全法》《个人信息保护法》等多部法律法规，依法保护网络安全和数据隐私。中国人工智能企业一贯致力于为全球用户提供安全可靠的服务，遵守所在国法律，受到了全球用户广泛欢迎。\n美方罔顾中美元首达成的重要共识，无视中美经贸关系大局，以所谓国家安全为由，对中国人工智能企业采取歧视性限制措施，是典型的泛化国家安全概念、滥用行政手段打压中国企业的行为，实质上是将科技经贸问题政治化、工具化，借国家安全之名行打压遏制之实。这严重损害中国企业合法权益，破坏公平竞争的市场环境，干扰中美人工智能领域正常商业合作。\n中方敦促美方尊重事实和市场规律，立即纠正错误做法，停止对中国企业的无理打压，撤销有关歧视性限制措施，为两国企业正常交流合作创造良好条件。希望美方切实落实两国元首重要共识，同中方相向而行，用好中美人工智能对话机制，增进互信、管控分歧，共同推动人工智能向上向善。中方将密切关注事态进展，对于任何实质性损害中方利益的行为，将采取一切必要措施，坚定维护自身正当合法权益。",
-      "url": "https://wallstreetcn.com/livenews/3181963",
-      "sentiment": "中性",
-      "isRed": false
-    },
-    {
-      "time": "13:32:26",
-      "source": "华尔街见闻-A股",
-      "title": "美股盘初：费城半导体指数跌1.75%，存储芯片股、光通信股普跌，通用汽车跌约6%",
-      "content": "道指跌0.1%，标普500指数跌0.2%，纳指跌0.4%。\n存储芯片股普跌，SK海力士跌约3%，西部数据跌约1%，闪迪跌约2%，美光科技跌约2%，希捷科技跌约1%。\n光通信股普跌，迈威尔科技跌约2%，康宁跌约2%，Coherent跌约4%，Credo跌约3%，Lumentum跌约3%。\n通用汽车跌约6%，公司此前公布了三季度财报。",
-      "url": "https://wallstreetcn.com/livenews/3181961",
-      "sentiment": "看跌",
-      "isRed": false
-    },
-    {
-      "time": "13:24:03",
-      "source": "华尔街见闻-A股",
-      "title": "境外机构连续五个月增持中国国债",
-      "content": "境外机构9月份连续第五个月增持中国国债，显示在欧美、日本等主要债市抛售潮加剧和人民币保持坚挺的背景下，中国国债的配置吸引力进一步凸显。根据中债登周二公布的数据计算，9月境外机构增持中国国债141.8亿元人民币，幅度为5月份以来最大，持有规模升至近2.04万亿元。（彭博）",
-      "url": "https://wallstreetcn.com/livenews/3181956",
+      "time": "21:05:00",
+      "source": "外媒",
+      "title": "SpaceX第三季度利润远超预期，AI业务爆发式增长推动营收翻倍",
+      "content": "埃隆·马斯克旗下的太空探索公司SpaceX NASDAQ:SPCX周二公布第三季度业绩，利润大幅超出市场预期。在人工智能业务快速增长的带动下，公司营收同比增长逾一倍，推动股价在盘后交易中上涨2.5%。与此同时，随着公司加大算力基础设施投资，资本支出接近增长三倍。马斯克在投资者电话会上表示：“对于SpaceX而言，无论是在发射、连接服务还是超级智能领域，我们都正处于一个关键拐点。”长期以来，星链及SpaceX更广泛的连接服务业务一直是公司的主要利润来源，为马斯克发展AI业务提供资金支持。SpaceX自研的AI软件，包括xAI旗下的Grok，目前在市场影响力上仍落后于OpenAI、Anthrop…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L6S4661CI:0",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "13:11:37",
-      "source": "华尔街见闻-A股",
+      "time": "21:04:40",
+      "source": "华尔街见闻-美股",
       "title": "",
-      "content": "长缆科技：董事长俞涛增持计划实施期限过半，已累计增持99.5万股，占总股本0.5153%，增持金额1671.14万元。（不含手续费）",
-      "url": "https://wallstreetcn.com/livenews/3181950",
+      "content": "明晟公司MSCI新兴市场股票指数跌1.1%，发展中国家外汇指数涨幅不到0.1%。",
+      "url": "https://wallstreetcn.com/livenews/3182160",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "21:04:11",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，马斯克表示，随着GrokBot不断改进，用户的使用量也在增加，SpaceX将在数周内大规模向企业部署GrokBot。",
+      "url": "https://www.cls.cn/telegraph/2.51042e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:03:14",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "CoreWeave、Nebius Group美股盘后涨超3%。",
+      "url": "https://wallstreetcn.com/livenews/3182159",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:02:35",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "伊朗外长阿拉格齐：我们通过巴基斯坦、卡塔尔等中间国与美方开展的谈判仍在继续。\n\n原计划在本轮进程的第六天全面开放霍尔木兹海峡。\n\n美方告知我们同意相关条款，但希望新增几项附加条款。",
+      "url": "https://wallstreetcn.com/livenews/3182158",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:02:19",
+      "source": "华尔街见闻-美股",
+      "title": "道明证券：若美股中期选举出现分裂的国会，或将推迟债务上限协议",
+      "content": "道明证券表示，美国财政部可能在2027年9月前后触及债务上限并耗尽现金，相关谈判很可能拖到最后关头。\n\n该行策略师Molly Brooks 和 Gennadiy Goldberg在一份报告中称：“相比分裂国会，由民主党掌控的国会通过相关法案的可能性会略高一些。”\n\n美国财政部数据显示，当前债务上限为41.1万亿美元；截至10月19日，受该上限约束的公共债务总额为40.199万亿美元。这意味着，在债务上限正式形成硬性约束前，政府还有约9,047亿美元的举债空间。\n\n一旦触及上限，财政部可启动一系列“非常规措施”以维持限额内的借款能力，同时消耗现金余额并大幅削减短期国债发行规模；因此，道明证券预计所谓的“最终违约日”将推迟至2027年晚些时候。",
+      "url": "https://wallstreetcn.com/livenews/3182157",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "21:01:39",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，韩国9月PPI同比增长7.7%。",
+      "url": "https://www.cls.cn/telegraph/2.510419e+06",
       "sentiment": "看涨",
       "isRed": false
     },
     {
-      "time": "13:11:19",
-      "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "康达新材：全资子公司北京康达晟璟集成电路（集团）有限公司向唐山工业控股集团低空经济发展有限公司转让成都必控科技有限责任公司39%股权，交易对价1.39亿元；本次股权转让事项已全部完成，交易后晟璟集成电路持有必控科技10%股权。",
-      "url": "https://wallstreetcn.com/livenews/3181948",
+      "time": "21:01:16",
+      "source": "外媒",
+      "title": "油价回落提振市场信心",
+      "content": "Jamie McGeever周二，美国股市  走高，摆脱了当日早盘的全球市场疲软态势，因  油价从六个月高点大幅回落，这一反转也推动长期国债收益率走低。SpaceX  在发布第三季度财报后，盘后交易中股价飙升3%。在今天我的专栏文章  中，我指出新兴市场面对美国利率上升和市场波动时，可能比过去几年更具韧性。当然，它们并非完全不受影响，但更高的收益率、可控的债务以及更强的政策公信力，将有助于它们抵御即将到来的风暴。今日重点阅读今日焦点：原油将何去何从？全球市场和各国经济正从容应对这场全球能源冲击，但如果这是因为他们预期油价会很快回落，那么他们可能需要重新调整预期。周二油价收跌，但在收盘前，布兰…",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661RH:0",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "13:10:48",
+      "time": "21:00:18",
+      "source": "华尔街见闻-全球7x24",
+      "title": "",
+      "content": "韩国9月PPI同比增长7.7%。",
+      "url": "https://wallstreetcn.com/livenews/3182156",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:59:55",
       "source": "华尔街见闻-A股",
       "title": "",
-      "content": "奥士康：拟发行境外上市外资股（H股）股票并申请在香港联交所主板挂牌上市。",
-      "url": "https://wallstreetcn.com/livenews/3181947",
+      "content": "周二（10月20日）纽约尾盘，现货黄金跌0.39%，报4124.75美元/盎司，北京时间18:09跌至4111.70美元刷新日低，22:00过后显著拉升、22:31刷新日高至4155.48美元。\n\n现货白银涨1.50%，报57.9369美元/盎司，22:32刷新日高至58.6023美元。\n\nCOMEX铜期货涨0.59%，报6.6150美元/磅。",
+      "url": "https://wallstreetcn.com/livenews/3182155",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "13:02:27",
+      "time": "20:58:22",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，AI交易概念盘后齐涨，戴尔科技涨超5%，CoreWeave、NEBIUS涨3%，美光、英伟达、SK海力士、英特尔、闪迪涨超1%。此前超微电脑第一财季净销售额初步估计为185亿至195亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.510418e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:55:10",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "SpaceX首席运营官：公司有望在明年初实现火箭二级复用发射。\n\n星链航空终端产量预计在年底前翻番。\n\n星链企业业务收入与政府业务收入未来均有望超过消费者业务收入。\n\n星链有望承载全球互联网流量中相当大的一部分。\n\n星链移动直连手机业务月活用户已突破2200万。\n\n频谱交易将让星链成为美国主要移动运营商。",
+      "url": "https://wallstreetcn.com/livenews/3182154",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:53:04",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "马斯克：预计SpaceX到2027年底年度经常性收入（ARR）可达5000亿-1万亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3182153",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:52:44",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，马斯克料2027年底前SpaceX年度经常性收入达5000亿至1万亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.510417e+06",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "20:50:07",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，马斯克表示，SpaceX部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和，有信心在2027年实现10吉瓦算力上线，有机会达到20吉瓦。",
+      "url": "https://www.cls.cn/telegraph/2.510416e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:50:04",
+      "source": "华尔街见闻-美股",
+      "title": "",
+      "content": "马斯克：存在“明年算力达到20 GW”的可能。\n\n如果到明年年底上线算力不足13吉瓦，我会感到意外。\n\nSpaceX计划在2027年新增20吉瓦的电力与冷却基础设施。\n\nSpaceX部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和。\n\nSpaceX相当有信心在2027年实现10吉瓦算力上线。\n\n预计人工智能代理将在3至5年内推动带宽需求增长1000倍。超级智能的制约因素更多在于电力、冷却和基础设施，而非芯片。\n\nGrok Bot是我见过增长速度最快的产品。\n\n随着Grok Bot持续优化，用户使用频次也在提升。\n\nSpaceX将在几周内面向企业大规模部署Grok Bot。",
+      "url": "https://wallstreetcn.com/livenews/3182152",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:44:36",
+      "source": "财联社电报",
+      "title": "美官员：美总统特使将于21日与普京会面",
+      "content": "【美官员：美总统特使将于21日与普京会面】财联社10月21日电，据美国官员透露，美国总统特使威特科夫将于21日与俄罗斯总统普京会面，特朗普女婿库什纳将以视频方式参与。美方表示，此前与乌克兰及欧洲方面的讨论涉及包括安全保障在内的全面和平框架相关内容。乌克兰提出了新的想法和建议，各方对此进行了详细讨论。目前，美国、乌克兰和欧洲在工作层面已就下一步行动达成高度共识。美方的目标是在与乌克兰和欧洲取得的进展基础上，进一步与俄罗斯讨论相关提议。 (央视新闻)",
+      "url": "https://www.cls.cn/telegraph/2.510414e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:40:04",
+      "source": "华尔街见闻-全球7x24",
+      "title": "",
+      "content": "马斯克：星舰第15次飞行预计下月进行。\n\n如果成功，第15次飞行将成为史上首次实现轨道运载火箭完全回收。\n\n将在星舰第15次飞行中尝试回收助推器和飞船。",
+      "url": "https://wallstreetcn.com/livenews/3182150",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:39:42",
+      "source": "华尔街见闻-全球7x24",
+      "title": "",
+      "content": "白宫：美国总统特朗普今天将签署多项立法草案为法律。",
+      "url": "https://wallstreetcn.com/livenews/3182149",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:39:30",
+      "source": "外媒",
+      "title": "超微预计第一季度营收将超出预期",
+      "content": "超微计算机公司（ NASDAQ:SMCI）周二表示，受人工智能平台需求推动，预计第一季度初步营收将高于市场预期。据伦敦证券交易所集团（LSEG）汇编的数据，这家服务器制造商预计初步营收将在185亿美元至195亿美元之间，而分析师的平均预期为152.3亿美元。(为便利非英文母语者，路透将其报导自动化翻译为数种其他语言。由于自动化翻译可能有误，或未能包含所需语境，路透不保证自动化翻译文本的准确性，仅是为了便利读者而提供自动化翻译。对于因为使用自动化翻译功能而造成的任何损害或损失，路透不承担任何责任。)",
+      "url": "https://cn.tradingview.com/news/tag:reuters.com,2026:newsml_L4S4661QE:0",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:37:52",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，美国至10月16日当周API原油库存减少493.1万桶，前值减少1112.3万桶。",
+      "url": "https://www.cls.cn/telegraph/2.510413e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:37:42",
       "source": "华尔街见闻-A股",
       "title": "",
-      "content": "夜盘期货开盘，苯乙烯、乙二醇、纯苯涨超2%，沥青、瓶片、对二甲苯、短纤、甲醇等涨超1%；菜粕跌超1%。",
-      "url": "https://wallstreetcn.com/livenews/3181942",
+      "content": "纳斯达克金龙中国指数收涨0.68%，报5719.25点，美股盘初显著上涨，北京时间22:30之前进入高位窄幅震荡状态、持续交投于5720点附近。\n\n热门中概股里，禾赛初步收涨8.3%，小鹏涨7.6%，理想涨5.7%，世纪互联涨5.5%，美团涨2.9%，小米涨2.8%，比亚迪涨1.1%，阿里涨0.1%，网易跌0.1%。\n\nETF中，中国科技指数ETF（CQQQ）收涨1.32%，中概互联网指数ETF（KWEB）收涨0.29%。XtrackersHarvest中证50（ASHS）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，德银嘉实沪深300指数ETF（ASHR）收跌0.16%。",
+      "url": "https://wallstreetcn.com/livenews/3182148",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:36:50",
+      "source": "华尔街见闻-全球7x24",
+      "title": "行业周报：美国上周API原油库存减少将近500万桶",
+      "content": "美国石油协会（API）数据显示，上周，美国API原油库存 -493.1万桶，之前一周 -1112.3万桶。\n\n上周API库欣原油库存 +93.6万桶，前值 +182.3万桶。\n\n上周API成品油汽油库存 -195.4万桶（前值 +109.1万桶）、馏分油库存 -257.7万桶（前值 -145.8万桶）。",
+      "url": "https://wallstreetcn.com/livenews/3182147",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "20:32:39",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，超微电脑第一财季净销售额初步估计为185亿至195亿美元，市场预计为149.9亿美元。公司股价盘后涨超10%。",
+      "url": "https://www.cls.cn/telegraph/2.510412e+06",
+      "sentiment": "中性",
+      "isRed": false
+    },
+    {
+      "time": "20:31:39",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "超微电脑（SMCI）2027财年一季度净销售初步估算为185亿-195亿美元，分析师预期149.9亿美元。\n\nAI平台需求增长。\n\n第一财季毛利润率初步估算为12%-12.5%。\n\n超微电脑每股盘后涨11%。",
+      "url": "https://wallstreetcn.com/livenews/3182146",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:30:26",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "标普500指数的11个板块中，保健板块收涨2.34%，房地产、公用事业、金融板块至多涨1.69%，信息技术/科技板块跌0.34%，电信板块跌0.89%。",
+      "url": "https://wallstreetcn.com/livenews/3182145",
       "sentiment": "看跌",
       "isRed": false
     },
     {
-      "time": "12:13:47",
+      "time": "20:27:29",
       "source": "华尔街见闻-A股",
-      "title": "润建股份：连续两日收盘价涨幅偏离值累计超20%，AI、算力、词元等业务占公司总营收比重仍然较低",
-      "content": "润建股份公告，2026年10月19日、10月20日连续两个交易日收盘价涨幅偏离值累计超过20%。目前，AI、算力、词元等业务占公司总营收比重仍然较低，2025年算力网络业务收入占同期公司总营收的7.83%；2026年上半年算力网络业务收入占同期公司总营收的13.82%。新业务市场竞争激烈，未来发展受技术迭代、市场环境变化、客户订单获取等多重因素影响，公司能否持续获取订单、实现技术突破及大规模商业化落地，均存在不确定性。",
-      "url": "https://wallstreetcn.com/livenews/3181927",
+      "title": "",
+      "content": "周二（10月20日），美股行业ETF多数收涨，生物科技指数ETF涨3.16%，全球航空业ETF、医疗业ETF至多涨2.38%，科技行业ETF、全球科技股指数ETF、半导体ETF则至多收跌0.38%。",
+      "url": "https://wallstreetcn.com/livenews/3182143",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "12:12:51",
+      "time": "20:24:00",
       "source": "华尔街见闻-A股",
-      "title": "",
-      "content": "捷安高科：持股2.3941%的股东杜艳齐拟减持不超过公司总股本0.2918%，减持期间为本公告披露之日起3个交易日后的3个月内，原因为个人资金需求。",
-      "url": "https://wallstreetcn.com/livenews/3181926",
+      "title": "地产ETF收涨超1.7%，与小盘股ETF领跑美股大类资产类ETF",
+      "content": "周二（10月20日），美国房地产ETF收涨1.73%，罗素2000指数ETF涨1.66%，道指ETF涨1.05%，美国国债20+年ETF、巴克莱美国可转债ETF、标普500 ETF至少涨0.34%，欧元做多、日元做多、新兴市场ETF等至多涨0.21%。\n\n纳斯达克100 ETF收跌0.1%，农产品基金、大豆基金至多跌0.3%，做多美元指数跌0.34%，美国布伦特油价基金跌0.37%，黄金ETF跌0.54%。",
+      "url": "https://wallstreetcn.com/livenews/3182142",
       "sentiment": "看跌",
       "isRed": false
     },
     {
-      "time": "11:59:51",
+      "time": "20:23:13",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，SpaceX股价盘后涨超2%，此前公布三季度净利润和销售额均超预期。",
+      "url": "https://www.cls.cn/telegraph/2.510411e+06",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:18:05",
       "source": "华尔街见闻-A股",
       "title": "",
-      "content": "长江证券：2026年10月20日首次回购公司股份452.29万股，占总股本0.08%，成交价7.51元/股至7.64元/股，成交总金额3413.81万元。（不含交易费用）",
-      "url": "https://wallstreetcn.com/livenews/3181922",
+      "content": "周二（10月20日），彭博电动汽车价格回报指数跌1.01%，报2974.76点。\n\n指数几乎全天处于下跌状态，亚太盘初微幅上涨，亚太早盘持续下跌、北京时间14:13刷新日低至2952.25点，美股开盘后一度显著收复失地。\n\n成分股里，中创新航科技集团H股收跌9.21%，优美科欧股收跌4.47%，地平线H股收跌3.95%，蔚来集团H股收跌3.5%，松下株式会社东京股价跌2.49%跌幅第五大。\n\n速腾聚创科技H股则收涨3.92%表现第六，沃尔沃汽车集团欧股涨4.4%，ANTAM Persero涨10.48%。",
+      "url": "https://wallstreetcn.com/livenews/3182139",
+      "sentiment": "看跌",
+      "isRed": false
+    },
+    {
+      "time": "20:17:54",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "直觉外科（ISRG）美股盘后跌9.93%。\n\n该公司三季度营收30.5亿美元，分析师预期29亿美元。\n\n三季度全球手术增长15%，上年同期增长20%。\n\n三季度达芬奇手术系统部署546套，分析师预期476套。\n\n预计全年全球达芬奇手术将增长14%-15%。",
+      "url": "https://wallstreetcn.com/livenews/3182138",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:05:07",
+      "source": "财联社电报",
+      "title": "",
+      "content": "财联社10月21日电，奈飞三季度营收128.7亿美元，预估128.7亿美元，三季度每股收益0.87美元，预估0.82美元。公司预计四季度营收134.4亿美元，分析师预期135.1亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.51041e+06",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "11:58:03",
-      "source": "华尔街见闻-A股",
-      "title": "宁德时代：前三季度归母净利润645.3亿元，同比增长31.60%",
-      "content": "宁德时代公告，前三季度营业收入4421.37亿元，同比增长56.19%；扣非净利润578.76亿元，同比增长32.68%.第三季度营业收入1652.21亿元，同比增长58.58%，归母净利润212.46亿元，同比增长14.54%。",
-      "url": "https://wallstreetcn.com/livenews/3181920",
+      "time": "20:04:32",
+      "source": "财联社电报",
+      "title": "SpaceX三季度营收145.8亿美元 高于市场预期",
+      "content": "【SpaceX三季度营收145.8亿美元 高于市场预期】财联社10月21日电，SpaceX三季度营收145.8亿美元，同比增长161%，分析师预期128亿美元，其中太空业务营收17.7亿美元，市场预期14.3亿美元，AI收入75.6亿美元，市场预估63亿美元。公司三季度净利润44亿美元，分析师预期18.8亿美元，三季度每股收益0.35美元，预估0.15美元。公司三季度资本开支195.9亿美元，预期196亿美元。",
+      "url": "https://www.cls.cn/telegraph/2.510409e+06",
       "sentiment": "看涨",
       "isRed": true
     },
     {
-      "time": "11:57:35",
+      "time": "20:03:49",
+      "source": "财联社电报",
+      "title": "利弗莫尔中概股龙头指数收涨0.59% 热门中概股多数上涨",
+      "content": "【利弗莫尔中概股龙头指数收涨0.59% 热门中概股多数上涨】财联社10月21日电，利弗莫尔中概股龙头指数收涨0.59%，热门中概股多数上涨，小鹏集团涨超7%，理想汽车涨超5%，知乎涨超2%，蔚来涨超1%，爱奇艺、哔哩哔哩跌幅不足1%。",
+      "url": "https://www.cls.cn/telegraph/2.510408e+06",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "20:03:10",
       "source": "华尔街见闻-A股",
-      "title": "中色股份：控股子公司签署准备工作启动协议，最高金额45.21亿坚戈",
-      "content": "中色股份公告，2026年10月19日，控股子公司中色哈萨克斯坦与哈萨克斯坦矿业冶炼有限责任公司签署《准备工作启动协议》，协议项下应付最高金额45.21亿坚戈（不含增值税），作为预付款支付，若签署施工合同则抵作施工合同价款。",
-      "url": "https://wallstreetcn.com/livenews/3181919",
+      "title": "",
+      "content": "SpaceX三季度营收145.8亿美元，分析师预期128.亿美元。\n\n三季度净利润44亿美元，分析师预期18.8亿美元。\n\n三季度资本开支195.9亿美元，分析师预期196亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3182136",
+      "sentiment": "中性",
+      "isRed": true
+    },
+    {
+      "time": "19:47:02",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "Anthropic将开支至多860亿美元，用于租赁英伟达芯片。（华尔街日报）",
+      "url": "https://wallstreetcn.com/livenews/3182128",
       "sentiment": "中性",
       "isRed": false
     },
     {
-      "time": "11:49:33",
+      "time": "19:46:14",
+      "source": "华尔街见闻-A股",
+      "title": "Anthropic S-1披露：营收爆发式增长、风险丛生、算力开支天量",
+      "content": "据新披露文件，Anthropic正为一场超大规模IPO做准备，其营收增长迅猛，但面临一长串风险，包括客户群狭窄、急需的算力供应存不确定性。该公司示意，未来几年可能斥资7500亿美元用于获取更多算力，其中包括仍在谈判中的交易。",
+      "url": "https://wallstreetcn.com/livenews/3182127",
+      "sentiment": "看涨",
+      "isRed": false
+    },
+    {
+      "time": "19:39:33",
       "source": "华尔街见闻-A股",
       "title": "",
-      "content": "金龙汽车：持股5%以上股东福建省投资开发集团有限责任公司减持计划期限届满，2026年7月20日至10月19日期间未实施减持。",
-      "url": "https://wallstreetcn.com/livenews/3181917",
+      "content": "Anthropic上半年因会计费用而计提807亿美元净亏损。（华尔街日报）",
+      "url": "https://wallstreetcn.com/livenews/3182125",
       "sentiment": "看跌",
+      "isRed": true
+    },
+    {
+      "time": "19:34:03",
+      "source": "华尔街见闻-A股",
+      "title": "",
+      "content": "报道：Anthropic将斥资逾6000亿美元用于算力。\n\n该公司上半年营收163亿美元，在算力问题上开支大约90亿美元。",
+      "url": "https://wallstreetcn.com/livenews/3182123",
+      "sentiment": "中性",
       "isRed": false
     }
   ]
